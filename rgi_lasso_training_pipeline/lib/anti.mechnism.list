@@ -1,0 +1,2977 @@
+aro_name	Resistance_Mechanism_des
+PDC-4	antibiotic inactivation
+CblA-1	antibiotic inactivation
+Escherichia coli ompF with mutation conferring resistance to beta-lactam antibiotics	reduced permeability to antibiotic
+SHV-52	antibiotic inactivation
+dfrF	antibiotic target replacement
+CTX-M-130	antibiotic inactivation
+NDM-6	antibiotic inactivation
+ACT-35	antibiotic inactivation
+CARB-5	antibiotic inactivation
+Erm(34)	antibiotic target alteration
+TEM-126	antibiotic inactivation
+LRA-12	antibiotic inactivation
+TEM-72	antibiotic inactivation
+TEM-59	antibiotic inactivation
+KPC-10	antibiotic inactivation
+tet(45)	antibiotic efflux
+OXA-212	antibiotic inactivation
+IMP-2	antibiotic inactivation
+CMY-1	antibiotic inactivation
+OXA-329	antibiotic inactivation
+ACT-10	antibiotic inactivation
+OXA-371	antibiotic inactivation
+fusB	antibiotic target protection
+CTX-M-121	antibiotic inactivation
+VEB-3	antibiotic inactivation
+lnuA	antibiotic inactivation
+OXA-45	antibiotic inactivation
+Escherichia coli folP with mutation conferring resistance to sulfonamides	antibiotic target alteration
+OXA-226	antibiotic inactivation
+CTX-M-155	antibiotic inactivation
+DHA-15	antibiotic inactivation
+msrE	antibiotic target protection
+OXY-6-3	antibiotic inactivation
+FosA2	antibiotic inactivation
+Mycobacterium leprae gyrA conferring resistance to fluoroquinolones	antibiotic target alteration
+Escherichia coli mdfA	antibiotic efflux
+APH(3')-Va	antibiotic inactivation
+AAC(3)-Ia	antibiotic inactivation
+QnrB58	antibiotic target protection
+rmtH	antibiotic target alteration
+OXY-6-1	antibiotic inactivation
+tet(42)	antibiotic efflux
+golS	antibiotic efflux
+mdtP	antibiotic efflux
+CMY-114	antibiotic inactivation
+OXA-60	antibiotic inactivation
+OXA-90	antibiotic inactivation
+tsnR	antibiotic target alteration
+SME-2	antibiotic inactivation
+AAC(3)-IIIc	antibiotic inactivation
+OXY-2-2	antibiotic inactivation
+MOX-5	antibiotic inactivation
+TEM-34	antibiotic inactivation
+OXA-69	antibiotic inactivation
+TEM-7	antibiotic inactivation
+SHV-24	antibiotic inactivation
+QnrB47	antibiotic target protection
+OXA-256	antibiotic inactivation
+QnrS6	antibiotic target protection
+OXA-330	antibiotic inactivation
+CMY-42	antibiotic inactivation
+AAC(6')-Ib	antibiotic inactivation
+CMY-70	antibiotic inactivation
+GES-21	antibiotic inactivation
+SHV-41	antibiotic inactivation
+OXA-391	antibiotic inactivation
+TEM-132	antibiotic inactivation
+aadA23	antibiotic inactivation
+NDM-10	antibiotic inactivation
+QnrB66	antibiotic target protection
+SHV-42	antibiotic inactivation
+OXA-35	antibiotic inactivation
+SHV-18	antibiotic inactivation
+fusH	antibiotic inactivation
+SHV-79	antibiotic inactivation
+TEM-47	antibiotic inactivation
+TEM-16	antibiotic inactivation
+VIM-37	antibiotic inactivation
+ACT-29	antibiotic inactivation
+FOX-3	antibiotic inactivation
+PER-4	antibiotic inactivation
+GIM-1	antibiotic inactivation
+IMP-42	antibiotic inactivation
+TEM-102	antibiotic inactivation
+TEM-116	antibiotic inactivation
+CMY-55	antibiotic inactivation
+vanYA	antibiotic target alteration
+Staphylococcus aureus rpoB mutants conferring resistance to rifampicin	antibiotic target alteration;antibiotic target replacement
+gadX	antibiotic efflux
+CTX-M-42	antibiotic inactivation
+SHV-105	antibiotic inactivation
+CMY-79	antibiotic inactivation
+CMY-56	antibiotic inactivation
+OXA-426	antibiotic inactivation
+vanXYC	antibiotic target alteration
+CMY-48	antibiotic inactivation
+QnrB38	antibiotic target protection
+Mycobacterium tuberculosis ethA with mutation conferring resistance to ethionamide	antibiotic target alteration
+TEM-109	antibiotic inactivation
+TLA-2	antibiotic inactivation
+SHV-12	antibiotic inactivation
+OXA-61	antibiotic inactivation
+CARB-4	antibiotic inactivation
+catB9	antibiotic inactivation
+TEM-43	antibiotic inactivation
+PDC-8	antibiotic inactivation
+ErmE	antibiotic target alteration
+AAC(6')-Iu	antibiotic inactivation
+Escherichia coli gyrB conferring resistance to aminocoumarin	antibiotic target alteration
+FosA5	antibiotic inactivation
+VEB-5	antibiotic inactivation
+dfrA13	antibiotic target replacement
+TEM-87	antibiotic inactivation
+QnrB18	antibiotic target protection
+LRA-9	antibiotic inactivation
+VIM-12	antibiotic inactivation
+aadA4	antibiotic inactivation
+mdtF	antibiotic efflux
+VIM-34	antibiotic inactivation
+SHV-64	antibiotic inactivation
+IND-7	antibiotic inactivation
+SHV-182	antibiotic inactivation
+TEM-183	antibiotic inactivation
+clbB	antibiotic target alteration
+srmB	antibiotic target protection
+FosX	antibiotic inactivation
+CTX-M-112	antibiotic inactivation
+CTX-M-50	antibiotic inactivation
+TEM-198	antibiotic inactivation
+arr-8	antibiotic inactivation
+rgt1438	antibiotic inactivation
+SME-5	antibiotic inactivation
+CMY-9	antibiotic inactivation
+APH(2'')-Ie	antibiotic inactivation
+Streptomyces lividans cmlR	antibiotic efflux
+QnrB10	antibiotic target protection
+AAC(6')-IIb	antibiotic inactivation
+vanRB	antibiotic target alteration
+tet(E)	antibiotic efflux
+cphA7	antibiotic inactivation
+IMP-12	antibiotic inactivation
+OXA-229	antibiotic inactivation
+OXA-98	antibiotic inactivation
+OXA-27	antibiotic inactivation
+SHV-92	antibiotic inactivation
+aadA12	antibiotic inactivation
+catB3	antibiotic inactivation
+OKP-A-15	antibiotic inactivation
+cpxA	antibiotic efflux
+adeF	antibiotic efflux
+mgrA	antibiotic efflux
+TEM-195	antibiotic inactivation
+AAC(6')-Iaf	antibiotic inactivation
+dfrA21	antibiotic target replacement
+myrA	antibiotic target alteration
+vgaALC	antibiotic target protection
+OXA-236	antibiotic inactivation
+SHV-56	antibiotic inactivation
+KPC-8	antibiotic inactivation
+OXA-376	antibiotic inactivation
+vanN	antibiotic target alteration
+VIM-29	antibiotic inactivation
+CMY-39	antibiotic inactivation
+VIM-17	antibiotic inactivation
+IMP-33	antibiotic inactivation
+IMP-19	antibiotic inactivation
+TEM-78	antibiotic inactivation
+OprN	antibiotic efflux
+arr-4	antibiotic inactivation
+CfxA2	antibiotic inactivation
+CTX-M-24	antibiotic inactivation
+CMY-25	antibiotic inactivation
+IMP-51	antibiotic inactivation
+vanHA	antibiotic target alteration
+QnrA5	antibiotic target protection
+DHA-19	antibiotic inactivation
+GES-14	antibiotic inactivation
+arlS	antibiotic efflux
+adeS	antibiotic efflux
+OCH-1	antibiotic inactivation
+OXA-232	antibiotic inactivation
+OXA-12	antibiotic inactivation
+OXA-348	antibiotic inactivation
+SHV-89	antibiotic inactivation
+CTX-M-19	antibiotic inactivation
+OXA-195	antibiotic inactivation
+OXA-199	antibiotic inactivation
+CTX-M-38	antibiotic inactivation
+TEM-121	antibiotic inactivation
+SHV-61	antibiotic inactivation
+CTX-M-58	antibiotic inactivation
+Mycobacterium tuberculosis embB mutant conferring resistance to ethambutol	antibiotic target alteration
+CTX-M-56	antibiotic inactivation
+TEM-138	antibiotic inactivation
+SRT-1	antibiotic inactivation
+LEN-14	antibiotic inactivation
+OCH-3	antibiotic inactivation
+SHV-101	antibiotic inactivation
+OXY-2-8	antibiotic inactivation
+VIM-43	antibiotic inactivation
+APH(4)-Ia	antibiotic inactivation
+FomA	antibiotic inactivation
+GES-12	antibiotic inactivation
+CMY-105	antibiotic inactivation
+AAC(3)-Ib/AAC(6')-Ib''	antibiotic inactivation
+SHV-35	antibiotic inactivation
+TEM-206	antibiotic inactivation
+Staphylococcus aureus parC conferring resistance to fluoroquinolones	antibiotic target alteration
+OXA-21	antibiotic inactivation
+SHV-121	antibiotic inactivation
+bcrC	antibiotic target alteration
+LEN-9	antibiotic inactivation
+vanXA	antibiotic target alteration
+npmA	antibiotic target alteration
+OKP-A-12	antibiotic inactivation
+TEM-92	antibiotic inactivation
+CMY-100	antibiotic inactivation
+JOHN-1	antibiotic inactivation
+GES-3	antibiotic inactivation
+MIR-2	antibiotic inactivation
+CTX-M-88	antibiotic inactivation
+OXA-113	antibiotic inactivation
+OKP-B-3	antibiotic inactivation
+sdiA	antibiotic efflux
+vanTmL	antibiotic target alteration
+OXA-422	antibiotic inactivation
+OXA-178	antibiotic inactivation
+imiH	antibiotic inactivation
+LEN-21	antibiotic inactivation
+QnrS8	antibiotic target protection
+OXA-181	antibiotic inactivation
+ACT-19	antibiotic inactivation
+Chryseobacterium meningosepticum BlaB	antibiotic inactivation
+SHV-137	antibiotic inactivation
+OXA-83	antibiotic inactivation
+vanRF	antibiotic target alteration
+ACT-30	antibiotic inactivation
+SHV-152	antibiotic inactivation
+OXA-9	antibiotic inactivation
+SHV-164	antibiotic inactivation
+cmlA5	antibiotic efflux
+CTX-M-126	antibiotic inactivation
+TEM-158	antibiotic inactivation
+OKP-B-9	antibiotic inactivation
+basS	antibiotic target alteration;antibiotic efflux
+Rhodococcus fascians cmr	antibiotic efflux
+APH(3')-VIIa	antibiotic inactivation
+APH(9)-Ia	antibiotic inactivation
+vanXYG	antibiotic target alteration
+OXA-150	antibiotic inactivation
+BRP(MBL)	antibiotic inactivation
+CMY-21	antibiotic inactivation
+ACT-37	antibiotic inactivation
+OXA-208	antibiotic inactivation
+ErmN	antibiotic target alteration
+CMY-65	antibiotic inactivation
+VIM-8	antibiotic inactivation
+dfrA24	antibiotic target replacement
+lsaE	antibiotic target protection
+SHV-128	antibiotic inactivation
+QnrB13	antibiotic target protection
+OXA-43	antibiotic inactivation
+CfxA6	antibiotic inactivation
+CMY-8	antibiotic inactivation
+LEN-20	antibiotic inactivation
+CMY-4	antibiotic inactivation
+QnrB36	antibiotic target protection
+VEB-7	antibiotic inactivation
+OXA-174	antibiotic inactivation
+OKP-B-2	antibiotic inactivation
+tetR	antibiotic target alteration;antibiotic efflux
+TEM-91	antibiotic inactivation
+imiS	antibiotic inactivation
+CTX-M-107	antibiotic inactivation
+CTX-M-11	antibiotic inactivation
+CMY-110	antibiotic inactivation
+CTX-M-125	antibiotic inactivation
+CMY-85	antibiotic inactivation
+smeD	antibiotic efflux
+TEM-11	antibiotic inactivation
+SHV-162	antibiotic inactivation
+TEM-67	antibiotic inactivation
+CMY-60	antibiotic inactivation
+OXA-85	antibiotic inactivation
+vatD	antibiotic inactivation
+APH(3')-Ia	antibiotic inactivation
+TEM-17	antibiotic inactivation
+SHV-180	antibiotic inactivation
+CfxA4	antibiotic inactivation
+OXA-145	antibiotic inactivation
+VIM-23	antibiotic inactivation
+CMY-98	antibiotic inactivation
+vanYG1	antibiotic target alteration
+CepS	antibiotic inactivation
+AAC(6')-29a	antibiotic inactivation
+CMY-95	antibiotic inactivation
+TEM-207	antibiotic inactivation
+ErmQ	antibiotic target alteration
+IND-11	antibiotic inactivation
+chrB	antibiotic target alteration
+SHV-32	antibiotic inactivation
+CTX-M-101	antibiotic inactivation
+CMY-118	antibiotic inactivation
+CMY-35	antibiotic inactivation
+SHV-78	antibiotic inactivation
+IND-2	antibiotic inactivation
+OXA-167	antibiotic inactivation
+OXA-143	antibiotic inactivation
+TEM-176	antibiotic inactivation
+DHA-2	antibiotic inactivation
+CTX-M-36	antibiotic inactivation
+TEM-148	antibiotic inactivation
+OXA-358	antibiotic inactivation
+OXA-366	antibiotic inactivation
+Streptococcus pneumoniae PBP2x conferring resistance to amoxicillin	antibiotic target alteration
+CTX-M-35	antibiotic inactivation
+FEZ-1	antibiotic inactivation
+aadA9	antibiotic inactivation
+QnrB54	antibiotic target protection
+LEN-23	antibiotic inactivation
+OXA-225	antibiotic inactivation
+GES-17	antibiotic inactivation
+Salmonella enterica cmlA	antibiotic efflux
+CTX-M-159	antibiotic inactivation
+IMP-26	antibiotic inactivation
+TEM-166	antibiotic inactivation
+R39	antibiotic inactivation
+CARB-23	antibiotic inactivation
+mexX	antibiotic efflux
+Staphylococcus aureus parE conferring resistance to fluoroquinolones	antibiotic target alteration
+tlrB conferring tylosin resistance	antibiotic target alteration
+adeC	antibiotic efflux
+OXY-1-2	antibiotic inactivation
+ANT(3'')-Ii-AAC(6')-IId fusion protein	antibiotic inactivation
+CMY-51	antibiotic inactivation
+IMP-1	antibiotic inactivation
+smeS	antibiotic efflux
+OXA-31	antibiotic inactivation
+SHV-188	antibiotic inactivation
+bcrA	antibiotic efflux
+QnrB23	antibiotic target protection
+SFH-1	antibiotic inactivation
+OXY-3-1	antibiotic inactivation
+vanL	antibiotic target alteration
+ykkD	antibiotic efflux
+SHV-6	antibiotic inactivation
+PDC-5	antibiotic inactivation
+QnrB2	antibiotic target protection
+QnrB24	antibiotic target protection
+TEM-1	antibiotic inactivation
+ErmU	antibiotic target alteration
+VIM-38	antibiotic inactivation
+QnrB42	antibiotic target protection
+TEM-112	antibiotic inactivation
+AAC(6')-Iy	antibiotic inactivation
+OXA-278	antibiotic inactivation
+CTX-M-151	antibiotic inactivation
+TEM-155	antibiotic inactivation
+CMY-83	antibiotic inactivation
+TEM-122	antibiotic inactivation
+Mycobacterium tuberculosis iniA mutant conferring resistance to Ethambutol	antibiotic target alteration;antibiotic efflux
+CTX-M-25	antibiotic inactivation
+CARB-14	antibiotic inactivation
+SHV-15	antibiotic inactivation
+SHV-8	antibiotic inactivation
+qacA	antibiotic efflux
+MIR-3	antibiotic inactivation
+SHV-21	antibiotic inactivation
+mdtH	antibiotic efflux
+lnuC	antibiotic inactivation
+mepA	antibiotic efflux
+TEM-214	antibiotic inactivation
+OXA-148	antibiotic inactivation
+CTX-M-147	antibiotic inactivation
+QnrS1	antibiotic target protection
+QnrB61	antibiotic target protection
+Pseudomonas mutant PhoQ conferring resistance to colistin	antibiotic target alteration;antibiotic efflux
+APH(2'')-IVa	antibiotic inactivation
+OXA-46	antibiotic inactivation
+LEN-8	antibiotic inactivation
+mdtA	antibiotic efflux
+QnrB71	antibiotic target protection
+tetW	antibiotic target protection
+vanSG	antibiotic target alteration
+VIM-2	antibiotic inactivation
+TUS-1	antibiotic inactivation
+QnrS5	antibiotic target protection
+OXA-130	antibiotic inactivation
+blaF	antibiotic inactivation
+sul3	antibiotic target replacement
+OXA-357	antibiotic inactivation
+TEM-71	antibiotic inactivation
+MIR-16	antibiotic inactivation
+PDC-1	antibiotic inactivation
+ACT-22	antibiotic inactivation
+tet(Y)	antibiotic efflux
+dfrA8	antibiotic target replacement
+OXA-217	antibiotic inactivation
+OXA-202	antibiotic inactivation
+ACC-4	antibiotic inactivation
+OXA-352	antibiotic inactivation
+OXA-380	antibiotic inactivation
+vanRL	antibiotic target alteration
+AAC(3)-IIIb	antibiotic inactivation
+QnrB11	antibiotic target protection
+OXA-117	antibiotic inactivation
+OXA-144	antibiotic inactivation
+OXA-377	antibiotic inactivation
+TEM-33	antibiotic inactivation
+OXA-204	antibiotic inactivation
+QnrB6	antibiotic target protection
+OXA-325	antibiotic inactivation
+SLB-1	antibiotic inactivation
+CTX-M-1	antibiotic inactivation
+TEM-2	antibiotic inactivation
+FOX-10	antibiotic inactivation
+DHA-16	antibiotic inactivation
+SHV-36	antibiotic inactivation
+TEM-182	antibiotic inactivation
+aadK	antibiotic inactivation
+OCH-7	antibiotic inactivation
+OXY-2-7	antibiotic inactivation
+mdsA	antibiotic efflux
+OXA-87	antibiotic inactivation
+Escherichia coli marR mutant conferring antibiotic resistance	antibiotic target alteration;antibiotic efflux
+ACT-25	antibiotic inactivation
+LEN-16	antibiotic inactivation
+OKP-A-9	antibiotic inactivation
+OXY-4-1	antibiotic inactivation
+SHV-69	antibiotic inactivation
+VIM-6	antibiotic inactivation
+SHV-83	antibiotic inactivation
+MexA	antibiotic efflux
+OXA-54	antibiotic inactivation
+OpmD	antibiotic efflux
+OKP-B-10	antibiotic inactivation
+AAC(6')-Ib-Suzhou	antibiotic inactivation
+TEM-22	antibiotic inactivation
+catB8	antibiotic inactivation
+SHV-67	antibiotic inactivation
+dfrG	antibiotic target replacement
+SHV-133	antibiotic inactivation
+OXA-51	antibiotic inactivation
+LRA-5	antibiotic inactivation
+QnrVC4	antibiotic target protection
+mtrE	antibiotic efflux
+KPC-4	antibiotic inactivation
+vanC	antibiotic target alteration
+adeR	antibiotic efflux
+OXA-93	antibiotic inactivation
+tet(B)	antibiotic efflux
+CTX-M-94	antibiotic inactivation
+CMY-29	antibiotic inactivation
+OXA-13	antibiotic inactivation
+Staphylococcus aureus pgsA mutations conferring resistance to daptomycin	antibiotic target alteration
+CTX-M-30	antibiotic inactivation
+NDM-13	antibiotic inactivation
+vanSO	antibiotic target alteration
+CTX-M-76	antibiotic inactivation
+CARB-3	antibiotic inactivation
+Erm(37)	antibiotic target alteration
+SHV-49	antibiotic inactivation
+OXA-4	antibiotic inactivation
+TEM-151	antibiotic inactivation
+TEM-128	antibiotic inactivation
+mphF	antibiotic inactivation
+dfrD	antibiotic target replacement
+OXA-106	antibiotic inactivation
+amrB	antibiotic efflux
+catP	antibiotic inactivation
+AAC(3)-IIa	antibiotic inactivation
+IMP-29	antibiotic inactivation
+GES-9	antibiotic inactivation
+VIM-30	antibiotic inactivation
+LEN-1	antibiotic inactivation
+GES-7	antibiotic inactivation
+QnrB49	antibiotic target protection
+TEM-191	antibiotic inactivation
+cmlB	antibiotic efflux
+macB	antibiotic efflux
+SHV-156	antibiotic inactivation
+Mycobacterium tuberculosis gidB mutation conferring resistance to streptomycin	antibiotic target alteration
+TEM-188	antibiotic inactivation
+PER-2	antibiotic inactivation
+Clostridium butyricum catB	antibiotic inactivation
+TEM-84	antibiotic inactivation
+KPC-14	antibiotic inactivation
+CMY-28	antibiotic inactivation
+KPC-16	antibiotic inactivation
+OXA-79	antibiotic inactivation
+QnrB17	antibiotic target protection
+vanSB	antibiotic target alteration
+OXA-164	antibiotic inactivation
+AAC(3)-VIIIa	antibiotic inactivation
+aadA17	antibiotic inactivation
+CTX-M-69	antibiotic inactivation
+TEM-52	antibiotic inactivation
+Mycobacterium tuberculosis iniC mutant conferring resistance to ethambutol	antibiotic target alteration;antibiotic efflux
+IMP-5	antibiotic inactivation
+rosB	antibiotic efflux
+tetA(P)	antibiotic efflux
+FOX-1	antibiotic inactivation
+CTX-M-9	antibiotic inactivation
+dfrA3	antibiotic target replacement
+CTX-M-82	antibiotic inactivation
+CARB-19	antibiotic inactivation
+LEN-10	antibiotic inactivation
+mgtA	antibiotic inactivation
+eptA	antibiotic target alteration
+QnrD2	antibiotic target protection
+vanXYN	antibiotic target alteration
+VIM-26	antibiotic inactivation
+AcrS	antibiotic efflux
+OXA-386	antibiotic inactivation
+floR	antibiotic efflux
+OXA-75	antibiotic inactivation
+dfrA25	antibiotic target replacement
+CMY-13	antibiotic inactivation
+ACT-2	antibiotic inactivation
+SHV-38	antibiotic inactivation
+OCH-8	antibiotic inactivation
+SHV-185	antibiotic inactivation
+VIM-11	antibiotic inactivation
+SAT-3	antibiotic inactivation
+CTX-M-47	antibiotic inactivation
+CARB-16	antibiotic inactivation
+vanVB	antibiotic target alteration
+Morganella morganii gyrB conferring resistance to fluoroquinolones	antibiotic target alteration
+TEM-95	antibiotic inactivation
+OXA-120	antibiotic inactivation
+QnrB59	antibiotic target protection
+emrY	antibiotic efflux
+TEM-133	antibiotic inactivation
+adeH	antibiotic efflux
+TEM-106	antibiotic inactivation
+AAC(6')-Is	antibiotic inactivation
+GES-22	antibiotic inactivation
+TLA-1	antibiotic inactivation
+arr-5	antibiotic inactivation
+QnrB3	antibiotic target protection
+TEM-107	antibiotic inactivation
+CMY-71	antibiotic inactivation
+CTX-M-117	antibiotic inactivation
+QnrB28	antibiotic target protection
+VIM-35	antibiotic inactivation
+OXA-163	antibiotic inactivation
+OXA-133	antibiotic inactivation
+vanYB	antibiotic target alteration
+SHV-9	antibiotic inactivation
+qacB	antibiotic efflux
+vanXYE	antibiotic target alteration
+OXA-77	antibiotic inactivation
+OKP-B-8	antibiotic inactivation
+TEM-187	antibiotic inactivation
+OKP-B-6	antibiotic inactivation
+IMP-22	antibiotic inactivation
+SHV-82	antibiotic inactivation
+OXA-32	antibiotic inactivation
+CTX-M-41	antibiotic inactivation
+CTX-M-20	antibiotic inactivation
+OXA-228	antibiotic inactivation
+Streptococcus pyogenes folP with mutation conferring resistance to sulfonamides	antibiotic target alteration
+clbA	antibiotic target alteration
+OXA-137	antibiotic inactivation
+OXA-136	antibiotic inactivation
+AAC(6')-Ia	antibiotic inactivation
+AAC(3)-Ib	antibiotic inactivation
+MIR-5	antibiotic inactivation
+QnrB65	antibiotic target protection
+SHV-11	antibiotic inactivation
+vgaA	antibiotic target protection
+TEM-110	antibiotic inactivation
+QnrB19	antibiotic target protection
+FOX-7	antibiotic inactivation
+SHV-100	antibiotic inactivation
+aadA21	antibiotic inactivation
+NDM-7	antibiotic inactivation
+VIM-20	antibiotic inactivation
+TEM-73	antibiotic inactivation
+OKP-A-7	antibiotic inactivation
+TEM-145	antibiotic inactivation
+IND-6	antibiotic inactivation
+CTX-M-122	antibiotic inactivation
+lmrB	antibiotic efflux
+abeS	antibiotic efflux
+QnrB41	antibiotic target protection
+SHV-75	antibiotic inactivation
+ROB-1	antibiotic inactivation
+Klebsiella pneumoniae ramR mutants	antibiotic target alteration;antibiotic efflux
+dfrA16	antibiotic target replacement
+OKP-A-3	antibiotic inactivation
+CMY-2	antibiotic inactivation
+dfrA20	antibiotic target replacement
+VIM-16	antibiotic inactivation
+mdtG	antibiotic efflux
+OXA-385	antibiotic inactivation
+OXA-96	antibiotic inactivation
+IMI-2	antibiotic inactivation
+TEM-201	antibiotic inactivation
+OXA-361	antibiotic inactivation
+emrK	antibiotic efflux
+SHV-153	antibiotic inactivation
+OXA-328	antibiotic inactivation
+PDC-7	antibiotic inactivation
+VEB-4	antibiotic inactivation
+SFB-1	antibiotic inactivation
+OXA-211	antibiotic inactivation
+NDM-8	antibiotic inactivation
+OXA-147	antibiotic inactivation
+emeA	antibiotic efflux
+SHV-30	antibiotic inactivation
+OXA-320	antibiotic inactivation
+ErmF	antibiotic target alteration
+DHA-7	antibiotic inactivation
+OXA-68	antibiotic inactivation
+Mycobacterium leprae rpoB mutations conferring resistance to rifampicin	antibiotic target alteration;antibiotic target replacement
+QnrB46	antibiotic target protection
+vanHB	antibiotic target alteration
+Escherichia coli rpoB mutants conferring resistance to rifampicin	antibiotic target alteration;antibiotic target replacement
+catB10	antibiotic inactivation
+VIM-28	antibiotic inactivation
+adeJ	antibiotic efflux
+TEM-21	antibiotic inactivation
+basR	antibiotic target alteration;antibiotic efflux
+OXA-355	antibiotic inactivation
+smeF	antibiotic efflux
+OXA-332	antibiotic inactivation
+CFE-1	antibiotic inactivation
+OXY-6-2	antibiotic inactivation
+ACT-16	antibiotic inactivation
+AAC(3)-IV	antibiotic inactivation
+tet(31)	antibiotic efflux
+CARB-6	antibiotic inactivation
+aadA25	antibiotic inactivation
+OXY-2-5	antibiotic inactivation
+OXY-2-1	antibiotic inactivation
+mecR1	antibiotic target replacement
+OXA-349	antibiotic inactivation
+TEM-89	antibiotic inactivation
+GES-4	antibiotic inactivation
+OXA-115	antibiotic inactivation
+aadA	antibiotic inactivation
+Staphylococcus aureus mprF	antibiotic target alteration
+tcr3	antibiotic efflux
+AAC(3)-VIIa	antibiotic inactivation
+dfrA26	antibiotic target replacement
+OXA-243	antibiotic inactivation
+OXA-219	antibiotic inactivation
+SHV-142	antibiotic inactivation
+CMY-104	antibiotic inactivation
+AAC(6')-29b	antibiotic inactivation
+Streptococcus pneumoniae parC conferring resistance to fluoroquinolones	antibiotic target alteration
+VIM-5	antibiotic inactivation
+TEM-162	antibiotic inactivation
+ACT-36	antibiotic inactivation
+CMY-43	antibiotic inactivation
+TEM-10	antibiotic inactivation
+CTX-M-34	antibiotic inactivation
+ACT-1	antibiotic inactivation
+CTX-M-65	antibiotic inactivation
+MIR-12	antibiotic inactivation
+IND-3	antibiotic inactivation
+CTX-M-137	antibiotic inactivation
+CMY-27	antibiotic inactivation
+IMP-48	antibiotic inactivation
+OXA-15	antibiotic inactivation
+OXA-25	antibiotic inactivation
+AAC(6')-Ih	antibiotic inactivation
+OXA-171	antibiotic inactivation
+PDC-10	antibiotic inactivation
+SHV-108	antibiotic inactivation
+CMY-54	antibiotic inactivation
+TEM-120	antibiotic inactivation
+QnrS4	antibiotic target protection
+CMY-75	antibiotic inactivation
+SHV-37	antibiotic inactivation
+OXA-239	antibiotic inactivation
+OXA-162	antibiotic inactivation
+APH(3')-Vc	antibiotic inactivation
+MOX-2	antibiotic inactivation
+CTX-M-123	antibiotic inactivation
+OXA-347	antibiotic inactivation
+vanRE	antibiotic target alteration
+TEM-159	antibiotic inactivation
+OXA-22	antibiotic inactivation
+CTX-M-40	antibiotic inactivation
+CMY-66	antibiotic inactivation
+cfrA	antibiotic target alteration
+Erm(42)	antibiotic target alteration
+TEM-205	antibiotic inactivation
+QnrS9	antibiotic target protection
+ACT-31	antibiotic inactivation
+SHV-129	antibiotic inactivation
+CTX-M-98	antibiotic inactivation
+cmlv	antibiotic inactivation
+OprJ	antibiotic efflux
+CMY-116	antibiotic inactivation
+APH(7'')-Ia	antibiotic inactivation
+AIM-1	antibiotic inactivation
+CTX-M-49	antibiotic inactivation
+TEM-213	antibiotic inactivation
+dfrB6	antibiotic target replacement
+SHV-62	antibiotic inactivation
+catB2	antibiotic inactivation
+CTX-M-81	antibiotic inactivation
+dfrB1	antibiotic target replacement
+PDC-3	antibiotic inactivation
+QnrB32	antibiotic target protection
+CTX-M-100	antibiotic inactivation
+LRA-8	antibiotic inactivation
+CMY-33	antibiotic inactivation
+BcI	antibiotic inactivation
+OXA-28	antibiotic inactivation
+vanRA	antibiotic target alteration
+SHV-72	antibiotic inactivation
+AAC(6')-Ij	antibiotic inactivation
+GES-11	antibiotic inactivation
+PC1 beta-lactamase (blaZ)	antibiotic inactivation
+ErmS	antibiotic target alteration
+TEM-192	antibiotic inactivation
+CTX-M-8	antibiotic inactivation
+AAC(6')-IIc	antibiotic inactivation
+IMP-11	antibiotic inactivation
+OXA-237	antibiotic inactivation
+vanTC	antibiotic target alteration
+TEM-30	antibiotic inactivation
+arr-7	antibiotic inactivation
+AAC(6')-Iae	antibiotic inactivation
+LRA-18	antibiotic inactivation
+QnrB21	antibiotic target protection
+CfxA	antibiotic inactivation
+AAC(3)-Id	antibiotic inactivation
+arr-3	antibiotic inactivation
+vanSL	antibiotic target alteration
+CMY-40	antibiotic inactivation
+AAC(2')-Ib	antibiotic inactivation
+QnrA4	antibiotic target protection
+cmeB	antibiotic efflux
+SHV-97	antibiotic inactivation
+SHV-172	antibiotic inactivation
+TEM-217	antibiotic inactivation
+vanRM	antibiotic target alteration
+SMB-1	antibiotic inactivation
+CTX-M-48	antibiotic inactivation
+KPC-9	antibiotic inactivation
+Enterococcus faecium liaR mutant conferring daptomycin resistance	antibiotic target alteration;antibiotic efflux
+CMY-80	antibiotic inactivation
+OXA-198	antibiotic inactivation
+OCH-2	antibiotic inactivation
+TEM-6	antibiotic inactivation
+GES-13	antibiotic inactivation
+CTX-M-55	antibiotic inactivation
+catI	antibiotic inactivation
+FOX-2	antibiotic inactivation
+QnrB7	antibiotic target protection
+SHV-102	antibiotic inactivation
+OXA-207	antibiotic inactivation
+SHV-43	antibiotic inactivation
+KPC-11	antibiotic inactivation
+SHV-57	antibiotic inactivation
+CMY-24	antibiotic inactivation
+LEN-6	antibiotic inactivation
+OCH-4	antibiotic inactivation
+tet37	antibiotic inactivation
+CMY-113	antibiotic inactivation
+tetX	antibiotic inactivation
+IMP-25	antibiotic inactivation
+OXA-350	antibiotic inactivation
+CARB-9	antibiotic inactivation
+QnrB25	antibiotic target protection
+OXA-63	antibiotic inactivation
+NDM-1	antibiotic inactivation
+AAC(6')-Iv	antibiotic inactivation
+OXY-2-9	antibiotic inactivation
+vanHO	antibiotic target alteration
+dfrA23	antibiotic target replacement
+SHV-46	antibiotic inactivation
+IMP-43	antibiotic inactivation
+CMY-32	antibiotic inactivation
+SHV-14	antibiotic inactivation
+OXY-1-1	antibiotic inactivation
+IMP-34	antibiotic inactivation
+Staphylococcus aureus rpoC conferring resistance to daptomycin	antibiotic target alteration
+OXA-324	antibiotic inactivation
+iri	antibiotic inactivation
+TEM-55	antibiotic inactivation
+cmeC	antibiotic efflux
+CTX-M-31	antibiotic inactivation
+CTX-M-87	antibiotic inactivation
+mfpA	antibiotic target protection
+QnrA3	antibiotic target protection
+cphA4	antibiotic inactivation
+tetB(P)	antibiotic target protection
+MexC	antibiotic efflux
+SHV-150	antibiotic inactivation
+OKP-B-1	antibiotic inactivation
+TEM-171	antibiotic inactivation
+lnuB	antibiotic inactivation
+mecC	antibiotic target replacement
+TEM-26	antibiotic inactivation
+CMY-10	antibiotic inactivation
+OXA-216	antibiotic inactivation
+TEM-113	antibiotic inactivation
+GOB-1	antibiotic inactivation
+OXA-3	antibiotic inactivation
+CTX-M-158	antibiotic inactivation
+SHV-141	antibiotic inactivation
+CTX-M-68	antibiotic inactivation
+mdtB	antibiotic efflux
+Mycobacterium tuberculosis embB with mutation conferring resistance to rifampicin	antibiotic target alteration
+QnrD1	antibiotic target protection
+vanD	antibiotic target alteration
+SHV-20	antibiotic inactivation
+TolC	antibiotic efflux
+QnrB55	antibiotic target protection
+TEM-83	antibiotic inactivation
+DHA-17	antibiotic inactivation
+SHV-157	antibiotic inactivation
+OKP-B-13	antibiotic inactivation
+SHV-161	antibiotic inactivation
+CfxA5	antibiotic inactivation
+FosA3	antibiotic inactivation
+APH(3')-Ib	antibiotic inactivation
+TEM-68	antibiotic inactivation
+vatH	antibiotic inactivation
+CTX-M-102	antibiotic inactivation
+CMY-44	antibiotic inactivation
+CMY-20	antibiotic inactivation
+CTX-M-14	antibiotic inactivation
+ugd	antibiotic target alteration
+QnrB14	antibiotic target protection
+CMY-117	antibiotic inactivation
+TEM-163	antibiotic inactivation
+DHA-12	antibiotic inactivation
+CTX-M-108	antibiotic inactivation
+OKP-A-2	antibiotic inactivation
+OXA-138	antibiotic inactivation
+OXA-26	antibiotic inactivation
+Mycobacterium tuberculosis pncA mutations conferring resistance to pyrazinamide	antibiotic target alteration
+QnrB62	antibiotic target protection
+OXA-160	antibiotic inactivation
+CMY-58	antibiotic inactivation
+TEM-142	antibiotic inactivation
+mepR	antibiotic efflux
+IND-14	antibiotic inactivation
+TEM-42	antibiotic inactivation
+OXA-215	antibiotic inactivation
+IMP-16	antibiotic inactivation
+PER-7	antibiotic inactivation
+CMY-61	antibiotic inactivation
+OXA-244	antibiotic inactivation
+adeB	antibiotic efflux
+OXA-175	antibiotic inactivation
+DHA-1	antibiotic inactivation
+CRP	antibiotic efflux
+otr(B)	antibiotic efflux
+CGB-1	antibiotic inactivation
+vatC	antibiotic inactivation
+KPC-19	antibiotic inactivation
+dfrA19	antibiotic target replacement
+smeE	antibiotic efflux
+SHV-124	antibiotic inactivation
+CTX-M-142	antibiotic inactivation
+TEM-185	antibiotic inactivation
+APH(6)-Ib	antibiotic inactivation
+ErmC	antibiotic target alteration
+RCP-1	antibiotic inactivation
+LRA-17	antibiotic inactivation
+CTX-M-99	antibiotic inactivation
+TEM-63	antibiotic inactivation
+IND-10	antibiotic inactivation
+SHV-33	antibiotic inactivation
+Erm(36)	antibiotic target alteration
+CMY-74	antibiotic inactivation
+SHV-53	antibiotic inactivation
+QnrB37	antibiotic target protection
+APH(6)-Ic	antibiotic inactivation
+CMY-90	antibiotic inactivation
+SHV-122	antibiotic inactivation
+CTX-M-131	antibiotic inactivation
+OXA-383	antibiotic inactivation
+VEB-9	antibiotic inactivation
+OXA-94	antibiotic inactivation
+tet(C)	antibiotic efflux
+LCR-1	antibiotic inactivation
+OXA-92	antibiotic inactivation
+APH(2'')-Ig	antibiotic inactivation
+rmtB	antibiotic target alteration
+CTX-M-93	antibiotic inactivation
+CARB-21	antibiotic inactivation
+fexA	antibiotic efflux
+CTX-M-139	antibiotic inactivation
+OXA-5	antibiotic inactivation
+rphA	antibiotic inactivation
+CMY-50	antibiotic inactivation
+LEN-13	antibiotic inactivation
+OXY-6-4	antibiotic inactivation
+ANT(6)-Ia	antibiotic inactivation
+SHV-106	antibiotic inactivation
+OXA-36	antibiotic inactivation
+SHV-186	antibiotic inactivation
+TEM-49	antibiotic inactivation
+PER-1	antibiotic inactivation
+TEM-152	antibiotic inactivation
+OKP-A-11	antibiotic inactivation
+AAC(6')-30/AAC(6')-Ib' fusion protein	antibiotic inactivation
+VIM-25	antibiotic inactivation
+AAC(6')-33	antibiotic inactivation
+AAC(3)-IIb	antibiotic inactivation
+KPC-15	antibiotic inactivation
+OXA-381	antibiotic inactivation
+carA	antibiotic target protection
+GES-10	antibiotic inactivation
+OXA-316	antibiotic inactivation
+GES-8	antibiotic inactivation
+OKP-A-14	antibiotic inactivation
+IMP-8	antibiotic inactivation
+OXA-314	antibiotic inactivation
+OKP-A-13	antibiotic inactivation
+OXA-242	antibiotic inactivation
+QnrB70	antibiotic target protection
+CTX-M-113	antibiotic inactivation
+TEM-125	antibiotic inactivation
+GES-1	antibiotic inactivation
+OXA-104	antibiotic inactivation
+vanUG	antibiotic target alteration
+bcrB	antibiotic efflux
+tet(40)	antibiotic efflux
+QnrB48	antibiotic target protection
+OXA-100	antibiotic inactivation
+mecI	antibiotic target replacement
+CTX-M-77	antibiotic inactivation
+ErmX	antibiotic target alteration
+ACT-15	antibiotic inactivation
+sul2	antibiotic target replacement
+Enterococcus faecalis liaF mutant conferring daptomycin resistance	antibiotic target alteration;antibiotic efflux
+APH(3')-IIb	antibiotic inactivation
+SHV-96	antibiotic inactivation
+TEM-88	antibiotic inactivation
+tet(G)	antibiotic efflux
+OXA-418	antibiotic inactivation
+OXA-64	antibiotic inactivation
+TEM-137	antibiotic inactivation
+SHV-93	antibiotic inactivation
+OXA-356	antibiotic inactivation
+CMY-69	antibiotic inactivation
+OXA-129	antibiotic inactivation
+OXA-333	antibiotic inactivation
+vanSC	antibiotic target alteration
+AAC(6')-Isa	antibiotic inactivation
+MIR-15	antibiotic inactivation
+VEB-8	antibiotic inactivation
+OKP-B-18	antibiotic inactivation
+cmlA4	antibiotic efflux
+CMY-23	antibiotic inactivation
+OXA-378	antibiotic inactivation
+lmrC	antibiotic target protection
+QnrB1	antibiotic target protection
+CTX-M-61	antibiotic inactivation
+OXA-112	antibiotic inactivation
+OXA-134	antibiotic inactivation
+TEM-96	antibiotic inactivation
+y56 beta-lactamase	antibiotic inactivation
+OXA-86	antibiotic inactivation
+TEM-153	antibiotic inactivation
+GES-20	antibiotic inactivation
+Bartonella bacilliformis gyrA conferring resistance to fluoroquinolones	antibiotic target alteration
+ErmA	antibiotic target alteration
+baeS	antibiotic efflux
+CTX-M-4	antibiotic inactivation
+tet(J)	antibiotic efflux
+ErmG	antibiotic target alteration
+FOX-9	antibiotic inactivation
+EreA	antibiotic inactivation
+SHV-66	antibiotic inactivation
+AAC(6')-Ib9	antibiotic inactivation
+SHV-77	antibiotic inactivation
+MexG	antibiotic efflux
+CMY-77	antibiotic inactivation
+VIM-31	antibiotic inactivation
+SHV-134	antibiotic inactivation
+LEN-2	antibiotic inactivation
+AAC(6')-Ib-Hangzhou	antibiotic inactivation
+Staphylococcus aureus mprF with mutation conferring resistance to daptomycin	antibiotic target alteration
+AAC(6')-Ib4	antibiotic inactivation
+OXA-18	antibiotic inactivation
+vanRD	antibiotic target alteration
+Escherichia coli soxR with mutation conferring antibiotic resistance	antibiotic target alteration;antibiotic efflux
+tet(V)	antibiotic efflux
+OKP-A-8	antibiotic inactivation
+BEL-1	antibiotic inactivation
+IND-1	antibiotic inactivation
+TEM-209	antibiotic inactivation
+TEM-29	antibiotic inactivation
+KPC-5	antibiotic inactivation
+APH(2'')-IIIa	antibiotic inactivation
+SHV-25	antibiotic inactivation
+evgA	antibiotic efflux
+OXA-255	antibiotic inactivation
+CTX-M-86	antibiotic inactivation
+APH(3')-IIc	antibiotic inactivation
+IMP-21	antibiotic inactivation
+OXA-241	antibiotic inactivation
+CTX-M-54	antibiotic inactivation
+TEM-28	antibiotic inactivation
+IMP-14	antibiotic inactivation
+AAC(6')-Ib-SK	antibiotic inactivation
+TEM-136	antibiotic inactivation
+SHV-74	antibiotic inactivation
+tet(H)	antibiotic efflux
+SHV-1	antibiotic inactivation
+CMY-102	antibiotic inactivation
+vanZA	antibiotic target alteration
+APH(6)-Id	antibiotic inactivation
+OXA-365	antibiotic inactivation
+vanSN	antibiotic target alteration
+QnrA7	antibiotic target protection
+Streptococcus pneumoniae PBP2b conferring resistance to amoxicillin	antibiotic target alteration
+vanWB	antibiotic target alteration
+cmlA1	antibiotic efflux
+cmlB1	antibiotic efflux
+dfrB3	antibiotic target replacement
+OXA-95	antibiotic inactivation
+MexS	antibiotic efflux
+Pseudomonas aeruginosa catB7	antibiotic inactivation
+SHV-76	antibiotic inactivation
+CTX-M-22	antibiotic inactivation
+ErmO-srmA	antibiotic target alteration
+vgaD	antibiotic target protection
+catS	antibiotic inactivation
+QnrB33	antibiotic target protection
+MOX-1	antibiotic inactivation
+AAC(6')-Ii	antibiotic inactivation
+LEN-12	antibiotic inactivation
+OXA-206	antibiotic inactivation
+SHV-2	antibiotic inactivation
+Escherichia coli parE conferring resistance to fluoroquinolones	antibiotic target alteration
+VIM-19	antibiotic inactivation
+CTX-M-114	antibiotic inactivation
+VIM-27	antibiotic inactivation
+APH(9)-Ib	antibiotic inactivation
+SHV-103	antibiotic inactivation
+OXY-2-10	antibiotic inactivation
+SHV-71	antibiotic inactivation
+QnrB73	antibiotic target protection
+CTX-M-141	antibiotic inactivation
+OXA-384	antibiotic inactivation
+TEM-118	antibiotic inactivation
+MexE	antibiotic efflux
+AAC(6')-Ib3	antibiotic inactivation
+IMP-35	antibiotic inactivation
+sul1	antibiotic target replacement
+DHA-22	antibiotic inactivation
+OXA-37	antibiotic inactivation
+OKP-B-19	antibiotic inactivation
+LEN-3	antibiotic inactivation
+TEM-20	antibiotic inactivation
+IMP-37	antibiotic inactivation
+OXA-420	antibiotic inactivation
+VIM-4	antibiotic inactivation
+OXA-161	antibiotic inactivation
+SHV-158	antibiotic inactivation
+IMP-30	antibiotic inactivation
+CTX-M-7	antibiotic inactivation
+OXA-323	antibiotic inactivation
+LEN-5	antibiotic inactivation
+OKP-B-5	antibiotic inactivation
+CMY-41	antibiotic inactivation
+OXA-253	antibiotic inactivation
+Staphylococcus aureus rpoB mutants conferring resistance to daptomycin	antibiotic target alteration
+CMY-14	antibiotic inactivation
+TEM-169	antibiotic inactivation
+IMP-6	antibiotic inactivation
+tet(39)	antibiotic efflux
+AAC(6')-31	antibiotic inactivation
+CARB-17	antibiotic inactivation
+SHV-59	antibiotic inactivation
+TEM-79	antibiotic inactivation
+Erm(38)	antibiotic target alteration
+vanB	antibiotic target alteration
+OXA-48	antibiotic inactivation
+OXA-245	antibiotic inactivation
+CTX-M-21	antibiotic inactivation
+QnrB29	antibiotic target protection
+CMY-17	antibiotic inactivation
+acrB	antibiotic efflux
+AAC(3)-VIa	antibiotic inactivation
+NDM-5	antibiotic inactivation
+PDC-2	antibiotic inactivation
+Enterococcus faecium liaS mutant conferring daptomycin resistance	antibiotic target alteration;antibiotic efflux
+CAU-1	antibiotic inactivation
+LEN-19	antibiotic inactivation
+AAC(6')-Ig	antibiotic inactivation
+OXA-58	antibiotic inactivation
+ANT(6)-Ib	antibiotic inactivation
+ACT-17	antibiotic inactivation
+OXA-435	antibiotic inactivation
+arr-2	antibiotic inactivation
+ErmD	antibiotic target alteration
+OXA-2	antibiotic inactivation
+EBR-1 beta-lactamase	antibiotic inactivation
+IMI-7	antibiotic inactivation
+APH(3')-VIa	antibiotic inactivation
+OXA-180	antibiotic inactivation
+FOX-8	antibiotic inactivation
+TEM-186	antibiotic inactivation
+OKP-B-11	antibiotic inactivation
+OXA-184	antibiotic inactivation
+CTX-M-64	antibiotic inactivation
+OXA-23	antibiotic inactivation
+CMY-19	antibiotic inactivation
+PDC-9	antibiotic inactivation
+AAC(3)-Ic	antibiotic inactivation
+OXA-88	antibiotic inactivation
+SHV-109	antibiotic inactivation
+Staphylococcus aureus parE conferring resistance to aminocoumarin	antibiotic target alteration
+MIR-6	antibiotic inactivation
+TEM-90	antibiotic inactivation
+tet(D)	antibiotic efflux
+dfrA12	antibiotic target replacement
+CMY-86	antibiotic inactivation
+OXA-169	antibiotic inactivation
+dfrA17	antibiotic target replacement
+OXA-7	antibiotic inactivation
+vgbB	antibiotic inactivation
+CTX-M-124	antibiotic inactivation
+TEM-156	antibiotic inactivation
+CMY-63	antibiotic inactivation
+OXA-363	antibiotic inactivation
+AER-1	antibiotic inactivation
+QnrVC5	antibiotic target protection
+OXA-240	antibiotic inactivation
+CTX-M-39	antibiotic inactivation
+KPC-3	antibiotic inactivation
+TEM-146	antibiotic inactivation
+ACT-9	antibiotic inactivation
+Erm(31)	antibiotic target alteration
+vanG	antibiotic target alteration
+SHV-22	antibiotic inactivation
+TEM-129	antibiotic inactivation
+QnrB34	antibiotic target protection
+lsaB	antibiotic target protection
+aadA15	antibiotic inactivation
+CMY-94	antibiotic inactivation
+MIR-9	antibiotic inactivation
+OKP-A-4	antibiotic inactivation
+Staphylococcus aureus gyrA conferring resistance to fluoroquinolones	antibiotic target alteration
+norB	antibiotic efflux
+NDM-9	antibiotic inactivation
+OXA-360	antibiotic inactivation
+CMY-46	antibiotic inactivation
+tet(44)	antibiotic target protection
+OXA-194	antibiotic inactivation
+TEM-54	antibiotic inactivation
+QnrB22	antibiotic target protection
+Enterococcus faecium cls conferring resistance to daptomycin	antibiotic target alteration
+Mycobacterium tuberculosis katG mutations conferring resistance to isoniazid	antibiotic target alteration
+KPC-12	antibiotic inactivation
+CMY-81	antibiotic inactivation
+IMP-4	antibiotic inactivation
+mdsC	antibiotic efflux
+cmeA	antibiotic efflux
+CTX-M-105	antibiotic inactivation
+tetQ	antibiotic target protection
+OXA-182	antibiotic inactivation
+OXA-176	antibiotic inactivation
+OXA-327	antibiotic inactivation
+OXA-248	antibiotic inactivation
+ErmV	antibiotic target alteration
+vatB	antibiotic inactivation
+OXA-354	antibiotic inactivation
+mdtM	antibiotic efflux
+VEB-1	antibiotic inactivation
+ErmH	antibiotic target alteration
+OXA-16	antibiotic inactivation
+SHV-55	antibiotic inactivation
+OXA-71	antibiotic inactivation
+Mycobacterium tuberculosis rpsL mutations conferring resistance to Streptomycin	antibiotic target alteration
+mef(B)	antibiotic efflux
+SHV-168	antibiotic inactivation
+msrA	antibiotic target protection
+CARB-22	antibiotic inactivation
+CTX-M-28	antibiotic inactivation
+Mycobacterium tuberculosis ndh with mutation conferring resistance to isoniazid	antibiotic target alteration
+VIM-39	antibiotic inactivation
+QepA1	antibiotic efflux
+DHA-13	antibiotic inactivation
+SHV-173	antibiotic inactivation
+QnrB45	antibiotic target protection
+novA	antibiotic efflux
+VIM-1	antibiotic inactivation
+OXA-141	antibiotic inactivation
+nalD	antibiotic efflux
+TEM-134	antibiotic inactivation
+FosC	antibiotic inactivation
+SHV-119	antibiotic inactivation
+OXA-139	antibiotic inactivation
+TEM-219	antibiotic inactivation
+vanRN	antibiotic target alteration
+OCH-5	antibiotic inactivation
+OXA-231	antibiotic inactivation
+FosA	antibiotic inactivation
+vph	antibiotic inactivation
+Erm(30)	antibiotic target alteration
+TEM-178	antibiotic inactivation
+adeG	antibiotic efflux
+aadA2	antibiotic inactivation
+CMY-30	antibiotic inactivation
+CTX-M-6	antibiotic inactivation
+CTX-M-33	antibiotic inactivation
+mel	antibiotic target protection
+cmeR	antibiotic efflux
+tet32	antibiotic target protection
+MIR-13	antibiotic inactivation
+AAC(6')-Ib'	antibiotic inactivation
+CMY-53	antibiotic inactivation
+Mycobacterium tuberculosis rpoB mutants conferring resistance to rifampicin	antibiotic target alteration;antibiotic target replacement
+OXA-397	antibiotic inactivation
+SHV-81	antibiotic inactivation
+mphL	antibiotic inactivation
+TEM-144	antibiotic inactivation
+aadA6/aadA10	antibiotic inactivation
+mphA	antibiotic inactivation
+OXY-5-1	antibiotic inactivation
+TEM-114	antibiotic inactivation
+AAC(2')-Ic	antibiotic inactivation
+CMY-72	antibiotic inactivation
+H-NS	antibiotic efflux
+FOX-5	antibiotic inactivation
+CTX-M-96	antibiotic inactivation
+CTX-M-157	antibiotic inactivation
+ceoB	antibiotic efflux
+GES-23	antibiotic inactivation
+CTX-M-46	antibiotic inactivation
+OXA-119	antibiotic inactivation
+bmr	antibiotic efflux
+QnrB68	antibiotic target protection
+OXA-55	antibiotic inactivation
+SHV-31	antibiotic inactivation
+APH(3')-IVa	antibiotic inactivation
+rosA	antibiotic efflux
+SHV-149	antibiotic inactivation
+QnrB56	antibiotic target protection
+smeC	antibiotic efflux
+MIR-4	antibiotic inactivation
+ANT(4')-IIa	antibiotic inactivation
+QnrB40	antibiotic target protection
+CMY-115	antibiotic inactivation
+OXA-192	antibiotic inactivation
+QnrS3	antibiotic target protection
+AAC(6')-Iw	antibiotic inactivation
+CTX-M-67	antibiotic inactivation
+otr(A)	antibiotic target protection
+VIM-10	antibiotic inactivation
+ErmT	antibiotic target alteration
+OXA-210	antibiotic inactivation
+GES-16	antibiotic inactivation
+TEM-45	antibiotic inactivation
+TEM-104	antibiotic inactivation
+QnrB12	antibiotic target protection
+OXA-110	antibiotic inactivation
+SIM-1	antibiotic inactivation
+KPC-6	antibiotic inactivation
+IND-15	antibiotic inactivation
+SAT-2	antibiotic inactivation
+SHV-34	antibiotic inactivation
+CTX-M-110	antibiotic inactivation
+OXA-82	antibiotic inactivation
+OKP-B-7	antibiotic inactivation
+TEM-141	antibiotic inactivation
+TEM-177	antibiotic inactivation
+CTX-M-109	antibiotic inactivation
+OXA-197	antibiotic inactivation
+Sed-1	antibiotic inactivation
+catII	antibiotic inactivation
+OKP-B-12	antibiotic inactivation
+CTX-M-80	antibiotic inactivation
+lsaA	antibiotic target protection
+AAC(6')-Ic	antibiotic inactivation
+MexF	antibiotic efflux
+Staphylococcus aureus cls conferring resistance to daptomycin	antibiotic target alteration
+BEL-2	antibiotic inactivation
+CTX-M-85	antibiotic inactivation
+OprM	antibiotic efflux
+IND-5	antibiotic inactivation
+OXY-1-6	antibiotic inactivation
+vanTE	antibiotic target alteration
+ACT-20	antibiotic inactivation
+IMP-10	antibiotic inactivation
+OXY-5-2	antibiotic inactivation
+OXA-111	antibiotic inactivation
+adeA	antibiotic efflux
+OXA-214	antibiotic inactivation
+mdtC	antibiotic efflux
+Pseudomonas aeruginosa catB6	antibiotic inactivation
+CTX-M-3	antibiotic inactivation
+evgS	antibiotic efflux
+SHV-147	antibiotic inactivation
+Klebsiella mutant PhoP conferring antibiotic resistance to colistin	antibiotic target alteration;antibiotic efflux
+mecA	antibiotic target replacement
+SHV-65	antibiotic inactivation
+Salmonella serovars parE conferring resistance to fluoroquinolones	antibiotic target alteration
+LRA-2	antibiotic inactivation
+OXA-65	antibiotic inactivation
+OXA-170	antibiotic inactivation
+AAC(6')-Iq	antibiotic inactivation
+vanSM	antibiotic target alteration
+ANT(4')-IIb	antibiotic inactivation
+emrR	antibiotic efflux
+CTX-M-52	antibiotic inactivation
+APH(3')-IIIa	antibiotic inactivation
+vanHD	antibiotic target alteration
+SHV-126	antibiotic inactivation
+QnrB8	antibiotic target protection
+BcII	antibiotic inactivation
+baeR	antibiotic efflux
+Bla1	antibiotic inactivation
+Mycobacterium tuberculosis embR mutant conferring resistance to ethambutol	antibiotic target alteration
+mtrC	antibiotic efflux
+OXA-53	antibiotic inactivation
+plasmid-encoded cat (pp-cat)	antibiotic inactivation
+OXA-166	antibiotic inactivation
+MexH	antibiotic efflux
+tet(K)	antibiotic efflux
+SHV-94	antibiotic inactivation
+OXA-425	antibiotic inactivation
+IND-2a	antibiotic inactivation
+TEM-93	antibiotic inactivation
+QnrVC1	antibiotic target protection
+OXA-251	antibiotic inactivation
+GES-5	antibiotic inactivation
+Mycobacterium tuberculosis embA mutant conferring resistance to ethambutol	antibiotic target alteration
+TEM-149	antibiotic inactivation
+dfrA22	antibiotic target replacement
+CTX-M-132	antibiotic inactivation
+VIM-24	antibiotic inactivation
+OXA-233	antibiotic inactivation
+Bartonella bacilliformis gyrB conferring resistance to aminocoumarin	antibiotic target alteration
+OXA-223	antibiotic inactivation
+IMP-31	antibiotic inactivation
+CARB-1	antibiotic inactivation
+CMY-101	antibiotic inactivation
+AAC(6')-I30	antibiotic inactivation
+cmx	antibiotic efflux
+oleD	antibiotic inactivation
+abeM	antibiotic efflux
+QnrB69	antibiotic target protection
+AAC(6')-Ib10	antibiotic inactivation
+CTX-M-26	antibiotic inactivation
+ANT(2'')-Ia	antibiotic inactivation
+CMY-26	antibiotic inactivation
+CMY-11	antibiotic inactivation
+MOX-6	antibiotic inactivation
+CTX-M-60	antibiotic inactivation
+AAC(3)-IIc	antibiotic inactivation
+OXA-313	antibiotic inactivation
+TEM-193	antibiotic inactivation
+CcrA	antibiotic inactivation
+rmtG	antibiotic target alteration
+IMI-4	antibiotic inactivation
+OXA-382	antibiotic inactivation
+mdsB	antibiotic efflux
+ANT(9)-Ia	antibiotic inactivation
+OXA-99	antibiotic inactivation
+oleB	antibiotic target protection
+KPC-22	antibiotic inactivation
+arlR	antibiotic efflux
+CTX-M-92	antibiotic inactivation
+aadA22	antibiotic inactivation
+THIN-B	antibiotic inactivation
+OXA-257	antibiotic inactivation
+Neisseria gonorrhoeae porin PIB (por)	reduced permeability to antibiotic
+OXA-11	antibiotic inactivation
+dfrC	antibiotic target replacement
+OXA-108	antibiotic inactivation
+OXA-315	antibiotic inactivation
+CTX-M-74	antibiotic inactivation
+mefE	antibiotic efflux
+OXA-390	antibiotic inactivation
+OXA-388	antibiotic inactivation
+IMP-3	antibiotic inactivation
+armA	antibiotic target alteration
+OXA-121	antibiotic inactivation
+CMY-62	antibiotic inactivation
+TEM-124	antibiotic inactivation
+CMY-6	antibiotic inactivation
+OXA-19	antibiotic inactivation
+OXA-62	antibiotic inactivation
+SHV-167	antibiotic inactivation
+OXA-172	antibiotic inactivation
+QnrB15	antibiotic target protection
+AAC(2')-Id	antibiotic inactivation
+OXA-89	antibiotic inactivation
+OXA-131	antibiotic inactivation
+DHA-6	antibiotic inactivation
+OXA-454	antibiotic inactivation
+aadA5	antibiotic inactivation
+TEM-85	antibiotic inactivation
+ACC-3	antibiotic inactivation
+TEM-15	antibiotic inactivation
+OXY-2-4	antibiotic inactivation
+RbpA	antibiotic target protection
+IMP-7	antibiotic inactivation
+acrD	antibiotic efflux
+cphA2	antibiotic inactivation
+SHV-60	antibiotic inactivation
+SHV-125	antibiotic inactivation
+GES-15	antibiotic inactivation
+Mycobacterium tuberculosis embC mutant conferring resistance to ethambutol	antibiotic target alteration
+CMY-18	antibiotic inactivation
+Erm(35)	antibiotic target alteration
+cmlA6	antibiotic efflux
+TEM-40	antibiotic inactivation
+AcrF	antibiotic efflux
+SHV-19	antibiotic inactivation
+SHV-80	antibiotic inactivation
+CTX-M-103	antibiotic inactivation
+Klebsiella aerogenes Omp36	reduced permeability to antibiotic
+mdtN	antibiotic efflux
+CARB-7	antibiotic inactivation
+IND-12	antibiotic inactivation
+AcrE	antibiotic efflux
+PDC-6	antibiotic inactivation
+OKP-A-10	antibiotic inactivation
+SHV-26	antibiotic inactivation
+OXA-59	antibiotic inactivation
+Escherichia coli parC conferring resistance to fluoroquinolones	antibiotic target alteration
+MIR-17	antibiotic inactivation
+TEM-216	antibiotic inactivation
+vanYD	antibiotic target alteration
+CMY-112	antibiotic inactivation
+IND-9	antibiotic inactivation
+IMP-15	antibiotic inactivation
+CTX-M-13	antibiotic inactivation
+TEM-157	antibiotic inactivation
+CTX-M-78	antibiotic inactivation
+FosB3	antibiotic inactivation
+SHV-63	antibiotic inactivation
+LRA-19	antibiotic inactivation
+GES-19	antibiotic inactivation
+aadA7	antibiotic inactivation
+SHV-13	antibiotic inactivation
+LEN-22	antibiotic inactivation
+SHV-135	antibiotic inactivation
+facT	antibiotic efflux
+QnrB26	antibiotic target protection
+adeI	antibiotic efflux
+DHA-18	antibiotic inactivation
+CTX-M-44	antibiotic inactivation
+MexR	antibiotic target alteration;antibiotic efflux
+SHV-99	antibiotic inactivation
+TEM-199	antibiotic inactivation
+CARB-10	antibiotic inactivation
+IMP-40	antibiotic inactivation
+EXO-1	antibiotic inactivation
+OXY-1-4	antibiotic inactivation
+SME-1	antibiotic inactivation
+AAC(3)-Xa	antibiotic inactivation
+ACT-27	antibiotic inactivation
+MOX-8	antibiotic inactivation
+CARB-12	antibiotic inactivation
+SHV-48	antibiotic inactivation
+TEM-75	antibiotic inactivation
+CMY-37	antibiotic inactivation
+SHV-107	antibiotic inactivation
+lnuF	antibiotic inactivation
+MOX-3	antibiotic inactivation
+PER-6	antibiotic inactivation
+LAT-1	antibiotic inactivation
+ACT-4	antibiotic inactivation
+OXA-224	antibiotic inactivation
+dfrA10	antibiotic target replacement
+cphA8	antibiotic inactivation
+VEB-6	antibiotic inactivation
+APH(6)-Ia	antibiotic inactivation
+CMY-49	antibiotic inactivation
+OXA-209	antibiotic inactivation
+LEN-4	antibiotic inactivation
+CMY-108	antibiotic inactivation
+SAT-4	antibiotic inactivation
+ACT-12	antibiotic inactivation
+smeA	antibiotic efflux
+QnrA2	antibiotic target protection
+vanXF	antibiotic target alteration
+vanTrL	antibiotic target alteration
+OXA-423	antibiotic inactivation
+SME-3	antibiotic inactivation
+QnrB64	antibiotic target protection
+IMP-28	antibiotic inactivation
+NDM-3	antibiotic inactivation
+CMY-45	antibiotic inactivation
+OXA-33	antibiotic inactivation
+EreA2	antibiotic inactivation
+vatE	antibiotic inactivation
+SHV-85	antibiotic inactivation
+VIM-32	antibiotic inactivation
+IMP-38	antibiotic inactivation
+MexD	antibiotic efflux
+Lactobacillus reuteri cat-TC	antibiotic inactivation
+TEM-160	antibiotic inactivation
+AAC(6')-Iaa	antibiotic inactivation
+SHV-51	antibiotic inactivation
+TEM-168	antibiotic inactivation
+TEM-130	antibiotic inactivation
+OXA-67	antibiotic inactivation
+TEM-81	antibiotic inactivation
+OXA-249	antibiotic inactivation
+SHV-143	antibiotic inactivation
+PER-5	antibiotic inactivation
+CMY-16	antibiotic inactivation
+OXA-421	antibiotic inactivation
+GES-2	antibiotic inactivation
+SHV-104	antibiotic inactivation
+aadA3	antibiotic inactivation
+rmtC	antibiotic target alteration
+ACT-14	antibiotic inactivation
+amrA	antibiotic efflux
+CMY-22	antibiotic inactivation
+dfrE	antibiotic target replacement
+Escherichia coli gyrA conferring resistance to fluoroquinolones	antibiotic target alteration
+Erm(43)	antibiotic target alteration
+vanRC	antibiotic target alteration
+APH(3')-Vb	antibiotic inactivation
+ErmB	antibiotic target alteration
+smeR	antibiotic efflux
+OXA-78	antibiotic inactivation
+MUS-1	antibiotic inactivation
+tetS	antibiotic target protection
+norA	antibiotic efflux
+SHV-140	antibiotic inactivation
+VIM-13	antibiotic inactivation
+SHV-187	antibiotic inactivation
+Bacillus subtilis mprF	antibiotic target alteration
+mtrA	antibiotic efflux
+OKP-B-20	antibiotic inactivation
+vanTG	antibiotic target alteration
+aad(6)	antibiotic inactivation
+CTX-M-63	antibiotic inactivation
+QnrB16	antibiotic target protection
+ACT-18	antibiotic inactivation
+vanXD	antibiotic target alteration
+FosB	antibiotic inactivation
+OXA-183	antibiotic inactivation
+OprA	antibiotic efflux
+vanSE	antibiotic target alteration
+OXA-205	antibiotic inactivation
+SHV-110	antibiotic inactivation
+Mycobacterium tuberculosis inhA mutations conferring resistance to isoniazid	antibiotic target alteration
+OXA-91	antibiotic inactivation
+OXA-17	antibiotic inactivation
+AAC(6')-32	antibiotic inactivation
+SHV-123	antibiotic inactivation
+QnrB9	antibiotic target protection
+catIII	antibiotic inactivation
+ACT-3	antibiotic inactivation
+dfrA5	antibiotic target replacement
+QnrVC6	antibiotic target protection
+tet(41)	antibiotic efflux
+CMY-73	antibiotic inactivation
+CTX-M-32	antibiotic inactivation
+OXA-10	antibiotic inactivation
+QnrB50	antibiotic target protection
+PER-3	antibiotic inactivation
+QnrB27	antibiotic target protection
+CMY-64	antibiotic inactivation
+dfrA14	antibiotic target replacement
+CMY-99	antibiotic inactivation
+vgbA	antibiotic inactivation
+mecB	antibiotic target replacement
+OXA-24	antibiotic inactivation
+SHV-2A	antibiotic inactivation
+OXA-101	antibiotic inactivation
+SHV-23	antibiotic inactivation
+Pseudomonas mutant PhoP conferring resistance to colistin	antibiotic target alteration;antibiotic efflux
+LRA-1	antibiotic inactivation
+AAC(6')-Iai	antibiotic inactivation
+SHV-86	antibiotic inactivation
+CTX-M-84	antibiotic inactivation
+cphA5	antibiotic inactivation
+CTX-M-16	antibiotic inactivation
+Streptococcus pneumoniae PBP1a conferring resistance to amoxicillin	antibiotic target alteration
+MexT	antibiotic efflux
+QnrC	antibiotic target protection
+OXA-74	antibiotic inactivation
+SME-4	antibiotic inactivation
+ErmR	antibiotic target alteration
+CMY-38	antibiotic inactivation
+TEM-194	antibiotic inactivation
+APH(2'')-IIa	antibiotic inactivation
+CTX-M-152	antibiotic inactivation
+vanE	antibiotic target alteration
+OXA-362	antibiotic inactivation
+L1 beta-lactamase	antibiotic inactivation
+CTX-M-156	antibiotic inactivation
+SHV-45	antibiotic inactivation
+vanWG	antibiotic target alteration
+GIM-2	antibiotic inactivation
+lmrD	antibiotic efflux
+OXA-179	antibiotic inactivation
+vgaE	antibiotic target protection
+CTX-M-95	antibiotic inactivation
+SHV-154	antibiotic inactivation
+TEM-197	antibiotic inactivation
+IMP-13	antibiotic inactivation
+CTX-M-71	antibiotic inactivation
+CTX-M-53	antibiotic inactivation
+catQ	antibiotic inactivation
+CMY-78	antibiotic inactivation
+vanRG	antibiotic target alteration
+QnrB57	antibiotic target protection
+MOX-7	antibiotic inactivation
+CMY-111	antibiotic inactivation
+SHV-84	antibiotic inactivation
+MIR-14	antibiotic inactivation
+OXA-203	antibiotic inactivation
+clbC	antibiotic target alteration
+arnA	antibiotic target alteration
+SHV-70	antibiotic inactivation
+ACT-23	antibiotic inactivation
+TEM-139	antibiotic inactivation
+MexI	antibiotic efflux
+CTX-M-2	antibiotic inactivation
+DHA-21	antibiotic inactivation
+CMY-15	antibiotic inactivation
+AAC(6')-If	antibiotic inactivation
+IMP-20	antibiotic inactivation
+AAC(6')-Ip	antibiotic inactivation
+SHV-95	antibiotic inactivation
+TEM-117	antibiotic inactivation
+CTX-M-79	antibiotic inactivation
+AAC(6')-IIa	antibiotic inactivation
+OKP-B-4	antibiotic inactivation
+OXA-258	antibiotic inactivation
+OXA-375	antibiotic inactivation
+CARB-8	antibiotic inactivation
+OKP-B-17	antibiotic inactivation
+ACC-1	antibiotic inactivation
+adeK	antibiotic efflux
+ramA	antibiotic efflux;reduced permeability to antibiotic
+vanXB	antibiotic target alteration
+TEM-80	antibiotic inactivation
+CMY-68	antibiotic inactivation
+vanZF	antibiotic target alteration
+nalC	antibiotic efflux
+Salmonella serovars soxS with mutation conferring antibiotic resistance	antibiotic target alteration;antibiotic efflux;reduced permeability to antibiotic
+TEM-211	antibiotic inactivation
+QnrA6	antibiotic target protection
+AAC(6')-It	antibiotic inactivation
+CTX-M-5	antibiotic inactivation
+GES-18	antibiotic inactivation
+cepA	antibiotic inactivation
+AAC(6')-Ib-cr	antibiotic inactivation
+OXA-49	antibiotic inactivation
+macA	antibiotic efflux
+APH(4)-Ib	antibiotic inactivation
+aadA24	antibiotic inactivation
+QnrB67	antibiotic target protection
+LEN-18	antibiotic inactivation
+SHV-40	antibiotic inactivation
+OXA-34	antibiotic inactivation
+cphA3	antibiotic inactivation
+CTX-M-90	antibiotic inactivation
+vanRO	antibiotic target alteration
+OXA-317	antibiotic inactivation
+CMY-31	antibiotic inactivation
+tetM	antibiotic target protection
+TEM-143	antibiotic inactivation
+OXA-353	antibiotic inactivation
+DHA-5	antibiotic inactivation
+Salmonella serovars gyrB conferring resistance to fluoroquinolones	antibiotic target alteration
+TEM-135	antibiotic inactivation
+OCH-6	antibiotic inactivation
+vanXO	antibiotic target alteration
+ACT-28	antibiotic inactivation
+Erm(39)	antibiotic target alteration
+MIR-1	antibiotic inactivation
+FosK	antibiotic inactivation
+CMY-57	antibiotic inactivation
+SHV-111	antibiotic inactivation
+OXA-142	antibiotic inactivation
+QnrB4	antibiotic target protection
+tet36	antibiotic target protection
+TEM-115	antibiotic inactivation
+Mycobacterium leprae gyrB conferring resistance to fluoroquinolones	antibiotic target alteration
+AQU-1	antibiotic inactivation
+IMP-41	antibiotic inactivation
+vanYM	antibiotic target alteration
+ErmW	antibiotic target alteration
+OXA-73	antibiotic inactivation
+OXA-398	antibiotic inactivation
+OXA-230	antibiotic inactivation
+DIM-1	antibiotic inactivation
+ceoA	antibiotic efflux
+tap	antibiotic efflux
+Mycobacterium leprae folP with mutation conferring resistance to dapsone	antibiotic target alteration
+TEM-184	antibiotic inactivation
+IMP-44	antibiotic inactivation
+vanHM	antibiotic target alteration
+TEM-101	antibiotic inactivation
+FOX-4	antibiotic inactivation
+SHV-73	antibiotic inactivation
+OXA-42	antibiotic inactivation
+CTX-M-66	antibiotic inactivation
+OXA-235	antibiotic inactivation
+mphB	antibiotic inactivation
+SHV-151	antibiotic inactivation
+OXA-415	antibiotic inactivation
+IND-4	antibiotic inactivation
+vatA	antibiotic inactivation
+GES-24	antibiotic inactivation
+ANT(4')-Ia	antibiotic inactivation
+CTX-M-45	antibiotic inactivation
+SHV-16	antibiotic inactivation
+TEM-53	antibiotic inactivation
+OXA-359	antibiotic inactivation
+SHV-28	antibiotic inactivation
+OXA-338	antibiotic inactivation
+cmrA	antibiotic efflux
+KPC-2	antibiotic inactivation
+IMP-24	antibiotic inactivation
+CMY-103	antibiotic inactivation
+lsaC	antibiotic target protection
+IMP-18	antibiotic inactivation
+OXA-254	antibiotic inactivation
+Erm(33)	antibiotic target alteration
+MdtK	antibiotic efflux
+SHV-148	antibiotic inactivation
+vanO	antibiotic target alteration
+CTX-M-23	antibiotic inactivation
+CMY-93	antibiotic inactivation
+emrA	antibiotic efflux
+OXA-326	antibiotic inactivation
+vanF	antibiotic target alteration
+QnrB35	antibiotic target protection
+OXA-351	antibiotic inactivation
+aadA16	antibiotic inactivation
+NDM-2	antibiotic inactivation
+OXA-97	antibiotic inactivation
+OXA-56	antibiotic inactivation
+VIM-14	antibiotic inactivation
+OKP-A-16	antibiotic inactivation
+CTX-M-144	antibiotic inactivation
+CTX-M-115	antibiotic inactivation
+TEM-127	antibiotic inactivation
+TEM-19	antibiotic inactivation
+aadA11	antibiotic inactivation
+tet(43)	antibiotic efflux
+CTX-M-106	antibiotic inactivation
+QnrS7	antibiotic target protection
+SHV-159	antibiotic inactivation
+OXA-177	antibiotic inactivation
+OKP-A-5	antibiotic inactivation
+CTX-M-12	antibiotic inactivation
+OXA-146	antibiotic inactivation
+AAC(2')-Ia	antibiotic inactivation
+TEM-12	antibiotic inactivation
+VIM-36	antibiotic inactivation
+OXA-334	antibiotic inactivation
+TEM-48	antibiotic inactivation
+mexY	antibiotic efflux
+VIM-42	antibiotic inactivation
+ACT-6	antibiotic inactivation
+QnrB44	antibiotic target protection
+vanHF	antibiotic target alteration
+TEM-164	antibiotic inactivation
+DHA-20	antibiotic inactivation
+DHA-14	antibiotic inactivation
+tmrB	reduced permeability to antibiotic
+VEB-2	antibiotic inactivation
+CMY-119	antibiotic inactivation
+ErmY	antibiotic target alteration
+SHV-183	antibiotic inactivation
+TEM-147	antibiotic inactivation
+SHV-120	antibiotic inactivation
+AAC(6')-Ib11	antibiotic inactivation
+OXA-168	antibiotic inactivation
+QnrVC3	antibiotic target protection
+OXA-107	antibiotic inactivation
+TEM-131	antibiotic inactivation
+OXA-14	antibiotic inactivation
+OXA-70	antibiotic inactivation
+tet(A)	antibiotic efflux
+QnrB5	antibiotic target protection
+VIM-15	antibiotic inactivation
+CARB-2	antibiotic inactivation
+KHM-1	antibiotic inactivation
+MOX-4	antibiotic inactivation
+AAC(6')-Ie-APH(2'')-Ia	antibiotic inactivation
+CTX-M-134	antibiotic inactivation
+TEM-8	antibiotic inactivation
+vgaB	antibiotic target protection
+GES-26	antibiotic inactivation
+TEM-3	antibiotic inactivation
+bacA	antibiotic target alteration
+AAC(6')-Ir	antibiotic inactivation
+Staphylococcus aureus gyrB conferring resistance to aminocoumarin	antibiotic target alteration
+OXY-1-3	antibiotic inactivation
+oleI	antibiotic inactivation
+CTX-M-27	antibiotic inactivation
+ykkC	antibiotic efflux
+SHV-5	antibiotic inactivation
+GES-6	antibiotic inactivation
+CMY-87	antibiotic inactivation
+APH(3'')-Ib	antibiotic inactivation
+AAC(6')-Iid	antibiotic inactivation
+QnrS2	antibiotic target protection
+OXA-374	antibiotic inactivation
+TEM-94	antibiotic inactivation
+tet(38)	antibiotic efflux
+OXA-201	antibiotic inactivation
+CTX-M-59	antibiotic inactivation
+ACT-5	antibiotic inactivation
+aadA14	antibiotic inactivation
+CMY-59	antibiotic inactivation
+OXA-76	antibiotic inactivation
+IMI-3	antibiotic inactivation
+rmtD	antibiotic target alteration
+OXA-128	antibiotic inactivation
+OXA-312	antibiotic inactivation
+CTX-M-91	antibiotic inactivation
+emrB	antibiotic efflux
+CTX-M-75	antibiotic inactivation
+Mycobacterium tuberculosis tlyA mutations conferring resistance to aminoglycosides	antibiotic target alteration
+FomB	antibiotic inactivation
+KPC-13	antibiotic inactivation
+rmtF	antibiotic target alteration
+OXA-20	antibiotic inactivation
+rmtA	antibiotic target alteration
+CTX-M-72	antibiotic inactivation
+QnrB20	antibiotic target protection
+VIM-9	antibiotic inactivation
+OXA-387	antibiotic inactivation
+QnrVC7	antibiotic target protection
+OXA-165	antibiotic inactivation
+LEN-15	antibiotic inactivation
+OXA-109	antibiotic inactivation
+VIM-3	antibiotic inactivation
+CMY-67	antibiotic inactivation
+ACC-5	antibiotic inactivation
+KPC-7	antibiotic inactivation
+CTX-M-116	antibiotic inactivation
+TEM-82	antibiotic inactivation
+OXY-2-6	antibiotic inactivation
+OXA-66	antibiotic inactivation
+OXA-389	antibiotic inactivation
+vanXYL	antibiotic target alteration
+linG	antibiotic inactivation
+OXA-196	antibiotic inactivation
+MIR-11	antibiotic inactivation
+LEN-7	antibiotic inactivation
+CMY-12	antibiotic inactivation
+SRT-2	antibiotic inactivation
+AAC(3)-IIIa	antibiotic inactivation
+adeN	antibiotic efflux
+OXA-72	antibiotic inactivation
+OXA-80	antibiotic inactivation
+DHA-10	antibiotic inactivation
+CTX-M-111	antibiotic inactivation
+tet(Z)	antibiotic efflux
+LEN-24	antibiotic inactivation
+TEM-70	antibiotic inactivation
+MIR-10	antibiotic inactivation
+NDM-4	antibiotic inactivation
+TEM-86	antibiotic inactivation
+AAC(6')-Iih	antibiotic inactivation
+OXA-114a	antibiotic inactivation
+SHV-127	antibiotic inactivation
+Salmonella enterica ramR mutants	antibiotic target alteration;antibiotic efflux
+CfxA3	antibiotic inactivation
+NDM-12	antibiotic inactivation
+tet(L)	antibiotic efflux
+OXA-379	antibiotic inactivation
+vanYF	antibiotic target alteration
+ACT-13	antibiotic inactivation
+CTX-M-51	antibiotic inactivation
+OXA-246	antibiotic inactivation
+mdtE	antibiotic efflux
+ACT-32	antibiotic inactivation
+ACT-21	antibiotic inactivation
+CTX-M-17	antibiotic inactivation
+vanSA	antibiotic target alteration
+OKP-A-6	antibiotic inactivation
+AAC(6')-Iak	antibiotic inactivation
+CTX-M-136	antibiotic inactivation
+AAC(6')-Iad	antibiotic inactivation
+LRA-13	antibiotic inactivation
+dfrK	antibiotic target replacement
+BEL-3	antibiotic inactivation
+CMY-47	antibiotic inactivation
+TEM-208	antibiotic inactivation
+tet(30)	antibiotic efflux
+spd	antibiotic inactivation
+SHV-27	antibiotic inactivation
+vanSF	antibiotic target alteration
+EreB	antibiotic inactivation
+marA	antibiotic efflux;reduced permeability to antibiotic
+APH(3'')-Ia	antibiotic inactivation
+vanM	antibiotic target alteration
+MexB	antibiotic efflux
+CMY-34	antibiotic inactivation
+SHV-29	antibiotic inactivation
+OXA-50	antibiotic inactivation
+ACT-24	antibiotic inactivation
+CTX-M-29	antibiotic inactivation
+TEM-150	antibiotic inactivation
+IMP-32	antibiotic inactivation
+SHV-160	antibiotic inactivation
+lnuD	antibiotic inactivation
+Mycobacterium tuberculosis gyrA conferring resistance to fluoroquinolones	antibiotic target alteration
+CTX-M-43	antibiotic inactivation
+OXA-118	antibiotic inactivation
+mtrD	antibiotic efflux
+AAC(6')-Ix	antibiotic inactivation
+QnrB30	antibiotic target protection
+SHV-98	antibiotic inactivation
+BJP-1	antibiotic inactivation
+Mycobacterium tuberculosis kasA mutant conferring resistance to isoniazid	antibiotic target alteration
+CTX-M-148	antibiotic inactivation
+SHV-50	antibiotic inactivation
+CTX-M-10	antibiotic inactivation
+CTX-M-160	antibiotic inactivation
+TEM-167	antibiotic inactivation
+cphA6	antibiotic inactivation
+arr-1	antibiotic inactivation
+TEM-76	antibiotic inactivation
+OXA-1	antibiotic inactivation
+SHV-155	antibiotic inactivation
+TEM-154	antibiotic inactivation
+OXA-29	antibiotic inactivation
+IMI-1	antibiotic inactivation
+VIM-18	antibiotic inactivation
+VIM-33	antibiotic inactivation
+ACT-7	antibiotic inactivation
+smeB	antibiotic efflux
+TEM-105	antibiotic inactivation
+OXA-47	antibiotic inactivation
+TEM-190	antibiotic inactivation
+IMP-45	antibiotic inactivation
+LEN-11	antibiotic inactivation
+lmrA	antibiotic target alteration;antibiotic efflux
+OXA-116	antibiotic inactivation
+SHV-189	antibiotic inactivation
+tet(35)	antibiotic efflux
+SHV-44	antibiotic inactivation
+dfrB2	antibiotic target replacement
+OXA-149	antibiotic inactivation
+TEM-111	antibiotic inactivation
+blt	antibiotic efflux
+AAC(6')-Ik	antibiotic inactivation
+OXA-200	antibiotic inactivation
+FosA4	antibiotic inactivation
+OXA-247	antibiotic inactivation
+vanA	antibiotic target alteration
+IMP-9	antibiotic inactivation
+vanTN	antibiotic target alteration
+SHV-144	antibiotic inactivation
+SHV-7	antibiotic inactivation
+OXA-309	antibiotic inactivation
+QnrA1	antibiotic target protection
+CMY-7	antibiotic inactivation
+Klebsiella pneumoniae acrR with mutation conferring multidrug antibiotic resistance	antibiotic target alteration;antibiotic efflux
+CMY-82	antibiotic inactivation
+otrC	antibiotic efflux
+dfrA1	antibiotic target replacement
+QnrB74	antibiotic target protection
+gimA	antibiotic inactivation
+AAC(6')-Iz	antibiotic inactivation
+vanXM	antibiotic target alteration
+tlrC	antibiotic target protection
+CTX-M-83	antibiotic inactivation
+TEM-215	antibiotic inactivation
+TEM-24	antibiotic inactivation
+OXA-250	antibiotic inactivation
+Bacillus pumilus cat86	antibiotic inactivation
+pmrA	antibiotic efflux
+TEM-189	antibiotic inactivation
+CTX-M-89	antibiotic inactivation
+IMP-27	antibiotic inactivation
+OXA-335	antibiotic inactivation
+SHV-145	antibiotic inactivation
+aadA6	antibiotic inactivation
+CTX-M-129	antibiotic inactivation
+QnrB60	antibiotic target protection
+SHV-178	antibiotic inactivation
+Erm(41)	antibiotic target alteration
+PmrF	antibiotic target alteration
+DHA-3	antibiotic inactivation
+OXA-370	antibiotic inactivation
+CTX-M-37	antibiotic inactivation
+CMY-76	antibiotic inactivation
+OXA-213	antibiotic inactivation
+tetO	antibiotic target protection
+SHV-165	antibiotic inactivation
+CTX-M-104	antibiotic inactivation
+OXA-132	antibiotic inactivation
+ACC-2	antibiotic inactivation
+TEM-57	antibiotic inactivation
+OXA-84	antibiotic inactivation
+CMY-84	antibiotic inactivation
+QnrB43	antibiotic target protection
+TEM-123	antibiotic inactivation
+AAC(3)-IXa	antibiotic inactivation
+OXA-173	antibiotic inactivation
+CTX-M-62	antibiotic inactivation
+mtrR	antibiotic efflux
+TEM-108	antibiotic inactivation
+CTX-M-15	antibiotic inactivation
+SHV-163	antibiotic inactivation
+tetT	antibiotic target protection
+KPC-17	antibiotic inactivation
+CARB-18	antibiotic inactivation
+TEM-60	antibiotic inactivation
+OXA-424	antibiotic inactivation
+IND-8	antibiotic inactivation
+aadA8	antibiotic inactivation
+QnrB31	antibiotic target protection
+OXY-2-3	antibiotic inactivation
+tet(33)	antibiotic efflux
+OXA-322	antibiotic inactivation
+OXA-57	antibiotic inactivation
+QnrB72	antibiotic target protection
+OXA-331	antibiotic inactivation
+dfrA15	antibiotic target replacement
+APH(3'')-Ic	antibiotic inactivation
+dfrA7	antibiotic target replacement
+msrC	antibiotic target protection
+LRA-3	antibiotic inactivation
+mdtO	antibiotic efflux
+SHV-179	antibiotic inactivation
+pp-flo	antibiotic efflux
+OKP-A-1	antibiotic inactivation
+FosC2	antibiotic inactivation
+VIM-7	antibiotic inactivation
+mphC	antibiotic inactivation
+blaR1	antibiotic inactivation
+TEM-196	antibiotic inactivation
+CMY-5	antibiotic inactivation
+Escherichia coli soxS with mutation conferring antibiotic resistance	antibiotic target alteration;antibiotic efflux;reduced permeability to antibiotic
+Escherichia coli 16S rRNA mutation conferring resistance to edeine	antibiotic target alteration
+Escherichia coli 16S rRNA (rrsB) mutation conferring resistance to neomycin	antibiotic target alteration
+Mycobacterium tuberculosis 16S rRNA mutation conferring resistance to amikacin	antibiotic target alteration
+AAC(6')-Ib8	antibiotic inactivation
+NmcR	antibiotic inactivation
+Escherichia coli 16S rRNA (rrsB) mutation conferring resistance to G418	antibiotic target alteration
+Salmonella enterica 16S rRNA (rrsD) mutation conferring resistance to spectinomycin	antibiotic target alteration
+Salmonella enterica soxR with mutation conferring antibiotic resistance	antibiotic target alteration;antibiotic efflux
+Neisseria gonorrhoeae 16S rRNA mutation conferring resistance to spectinomycin	antibiotic target alteration
+Mycolicibacterium smegmatis 16S rRNA (rrsA) mutation conferring resistance to neomycin	antibiotic target alteration
+Mycobacteroides chelonae 16S rRNA mutation conferring resistance to kanamycin A	antibiotic target alteration
+sgm	antibiotic target alteration
+Escherichia coli 16S rRNA (rrsH) mutation conferring resistance to spectinomycin	antibiotic target alteration
+patA	antibiotic efflux
+Mycoplasma hominis parC conferring resistance to fluoroquinolones	antibiotic target alteration
+Mycobacteroides abscessus 16S rRNA mutation conferring resistance to amikacin	antibiotic target alteration
+Escherichia coli 16S rRNA (rrnB) mutation conferring resistance to spectinomycin	antibiotic target alteration
+Escherichia coli 16S rRNA (rrnB) mutation conferring resistance to tetracycline	antibiotic target alteration
+aadA13	antibiotic inactivation
+Mycolicibacterium smegmatis 16S rRNA (rrsB) mutation conferring resistance to streptomycin	antibiotic target alteration
+Mycobacteroides abscessus 16S rRNA mutation conferring resistance to kanamycin	antibiotic target alteration
+Mycobacteroides chelonae 16S rRNA mutation conferring resistance to gentamicin C	antibiotic target alteration
+Klebsiella aerogenes acrR with mutation conferring multidrug antibiotic resistance	antibiotic target alteration;antibiotic efflux
+Chlamydophila psittaci 16S rRNA mutation conferring resistance to spectinomycin	antibiotic target alteration
+Escherichia coli 16S rRNA (rrsC) mutation conferring resistance to kasugamicin	antibiotic target alteration
+Escherichia coli 16S rRNA (rrsB) mutation conferring resistance to paromomycin	antibiotic target alteration
+Mycolicibacterium smegmatis 16S rRNA (rrsB) mutation conferring resistance to viomycin	antibiotic target alteration
+Mycolicibacterium smegmatis 16S rRNA (rrsB) mutation conferring resistance to kanamycin A	antibiotic target alteration
+Mycobacteroides chelonae 16S rRNA mutation conferring resistance to amikacin	antibiotic target alteration
+Mycolicibacterium smegmatis 16S rRNA (rrsB) mutation conferring resistance to hygromycin B	antibiotic target alteration
+SHV-3	antibiotic inactivation
+Ureaplasma urealyticum parC conferring resistance to fluoroquinolones	antibiotic target alteration
+Mycobacteroides abscessus 16S rRNA mutation conferring resistance to neomycin	antibiotic target alteration
+Mycolicibacterium smegmatis 16S rRNA (rrsA) mutation conferring resistance to kanamycin A	antibiotic target alteration
+Enterococcus faecium EF-Tu mutants conferring resistance to GE2270A	antibiotic target alteration
+Mycobacterium tuberculosis gyrB mutant conferring resistance to fluoroquinolones	antibiotic target alteration
+CARB-20	antibiotic inactivation
+Mycobacteroides chelonae 16S rRNA mutation conferring resistance to tobramycin	antibiotic target alteration
+patB	antibiotic efflux
+Escherichia coli 16S rRNA (rrsB) mutation conferring resistance to tobramycin	antibiotic target alteration
+APH(3')-IIa	antibiotic inactivation
+TEM-4	antibiotic inactivation
+Pasteurella multocida 16S rRNA mutation conferring resistance to spectinomycin	antibiotic target alteration
+AAC(6')-Ib7	antibiotic inactivation
+LRA-10	antibiotic inactivation
+LRA-7	antibiotic inactivation
+Mycobacteroides chelonae 16S rRNA mutation conferring resistance to neomycin	antibiotic target alteration
+vgaC	antibiotic target protection
+Clostridioides difficile EF-Tu mutants conferring resistance to elfamycin	antibiotic target alteration
+Mycobacteroides abscessus 16S rRNA mutation conferring resistance to tobramycin	antibiotic target alteration
+Borreliella burgdorferi 16S rRNA mutation conferring resistance to kanamycin	antibiotic target alteration
+Mycobacteroides abscessus 16S rRNA mutation conferring resistance to gentamicin	antibiotic target alteration
+Escherichia coli 16S rRNA (rrsB) mutation conferring resistance to spectinomycin	antibiotic target alteration
+opcM	antibiotic efflux
+Mycobacterium tuberculosis 16S rRNA mutation conferring resistance to streptomycin	antibiotic target alteration
+Mycobacterium tuberculosis 16S rRNA mutation conferring resistance to kanamycin	antibiotic target alteration
+Mycobacterium tuberculosis 16S rRNA mutation conferring resistance to viomycin	antibiotic target alteration
+CMY-36	antibiotic inactivation
+ACT-33	antibiotic inactivation
+Escherichia coli 16S rRNA (rrsB) mutation conferring resistance to kanamycin A	antibiotic target alteration
+Escherichia coli EF-Tu mutants conferring resistance to kirromycin	antibiotic target alteration
+NmcA	antibiotic inactivation
+vanSD	antibiotic target alteration
+Escherichia coli 16S rRNA (rrsB) mutation conferring resistance to streptomycin	antibiotic target alteration
+Mycolicibacterium smegmatis 16S rRNA (rrsB) mutation conferring resistance to neomycin	antibiotic target alteration
+Mycolicibacterium smegmatis 16S rRNA (rrsA) mutation conferring resistance to viomycin	antibiotic target alteration
+Borreliella burgdorferi 16S rRNA mutation conferring resistance to gentamicin	antibiotic target alteration
+Mycobacterium tuberculosis variant bovis embB with mutation conferring resistance to ethambutol	antibiotic target alteration
+Escherichia coli 16S rRNA (rrsB) mutation conferring resistance to tetracycline	antibiotic target alteration
+Escherichia coli 16S rRNA (rrnB) mutation conferring resistance to streptomycin	antibiotic target alteration
+Escherichia coli EF-Tu mutants conferring resistance to Enacyloxin IIa	antibiotic target alteration
+Ureaplasma urealyticum  gyrB conferring resistance to fluoroquinolones	antibiotic target alteration
+Mycolicibacterium smegmatis 16S rRNA (rrsA) mutation conferring resistance to hygromycin B	antibiotic target alteration
+Neisseria meningitidis 16S rRNA mutation conferring resistance to spectinomycin	antibiotic target alteration
+Borreliella burgdorferi 16S rRNA mutation conferring resistance to spectinomycin	antibiotic target alteration
+Cutibacterium acnes 16S rRNA mutation conferring resistance to tetracycline	antibiotic target alteration
+NDM-14	antibiotic inactivation
+Escherichia coli 16S rRNA (rrsB) mutation conferring resistance to gentamicin C	antibiotic target alteration
+Escherichia coli EF-Tu mutants conferring resistance to Pulvomycin	antibiotic target alteration
+AAC(6')-Iaj	antibiotic inactivation
+TriA	antibiotic efflux
+TriB	antibiotic efflux
+TriC	antibiotic efflux
+OpmH	antibiotic efflux
+Pseudomonas aeruginosa gyrA conferring resistance to fluoroquinolones	antibiotic target alteration
+Pseudomonas aeruginosa parE conferring resistance to fluoroquinolones	antibiotic target alteration
+APH(3')-VI	antibiotic inactivation
+PvrR	resistance by absence
+MCR-1.1	antibiotic target alteration
+MexJ	antibiotic efflux
+MexK	antibiotic efflux
+MexV	antibiotic efflux
+MexW	antibiotic efflux
+mexP	antibiotic efflux
+mexQ	antibiotic efflux
+opmE	antibiotic efflux
+Pseudomonas aeruginosa gyrA and parC conferring resistance to fluoroquinolones	antibiotic target alteration
+mexM	antibiotic efflux
+mexN	antibiotic efflux
+MexL	antibiotic efflux
+VEB-1b	antibiotic inactivation
+MexZ	antibiotic efflux
+Pseudomonas aeruginosa oprD with mutation conferring resistance to imipenem	reduced permeability to antibiotic
+VCC-1	antibiotic inactivation
+PEDO-1	antibiotic inactivation
+PEDO-2	antibiotic inactivation
+PEDO-3	antibiotic inactivation
+CPS-1	antibiotic inactivation
+ESP-1	antibiotic inactivation
+MSI-1	antibiotic inactivation
+MSI-OXA	antibiotic inactivation
+SPG-1	antibiotic inactivation
+vanJ	antibiotic target alteration
+vanI	antibiotic target alteration
+vanWI	antibiotic target alteration
+vanXI	antibiotic target alteration
+vanKI	antibiotic target alteration
+vanRI	antibiotic target alteration
+fusD	antibiotic target protection
+LpxA	antibiotic target alteration
+fusC	antibiotic target protection
+LpxC	antibiotic target alteration
+Staphylococcus aureus fusA with mutation conferring resistance to fusidic acid	antibiotic target alteration
+Staphylococcus aureus fusE with mutation conferring resistance to fusidic acid	antibiotic target alteration
+Planobispora rosea EF-Tu mutants conferring resistance to inhibitor GE2270A	antibiotic target alteration
+mphG	antibiotic inactivation
+vatF	antibiotic inactivation
+lnuE	antibiotic inactivation
+mefC	antibiotic efflux
+optrA	antibiotic target protection
+oleC	antibiotic efflux
+salA	antibiotic target protection
+Escherichia coli nfsA mutations conferring resistance to nitrofurantoin	antibiotic target alteration
+eatAv	antibiotic target protection
+Staphylococcus aureus mupA conferring resistance to mupirocin	antibiotic target alteration
+Staphylococcus aureus mupB conferring resistance to mupirocin	antibiotic target alteration
+Enterococcus faecalis cls with mutation conferring resistance to daptomycin	antibiotic target alteration
+RlmA(II)	antibiotic target alteration
+Staphylococcus aureus ileS with mutation conferring resistance to mupirocin	antibiotic target alteration
+mphM	antibiotic inactivation
+Bifidobacterium bifidum ileS conferring resistance to mupirocin	antibiotic target alteration
+Listeria monocytogenes mprF	antibiotic target alteration
+Brucella suis mprF	antibiotic target alteration
+Clostridium perfringens mprF	antibiotic target alteration
+Streptococcus agalactiae mprF	antibiotic target alteration
+Escherichia coli murA with mutation conferring resistance to fosfomycin	antibiotic target alteration
+Staphylococcus aureus murA with mutation conferring resistance to fosfomycin	antibiotic target alteration
+Borreliella burgdorferi murA with mutation conferring resistance to fosfomycin	antibiotic target alteration
+Mycolicibacterium smegmatis ndh with mutation conferring resistance to isoniazid	antibiotic target alteration
+Mycobacterium tuberculosis variant bovis ndh with mutation conferring resistance to isoniazid	antibiotic target alteration
+Mycobacterium tuberculosis intrinsic murA conferring resistance to fosfomycin	antibiotic target alteration
+Chlamydia trachomatis intrinsic murA conferring resistance to fosfomycin	antibiotic target alteration
+Bacillus subtilis pgsA with mutation conferring resistance to daptomycin	antibiotic target alteration
+Campylobacter jejuni gyrA conferring resistance to fluoroquinolones	antibiotic target alteration
+Enterococcus faecium liaF mutant conferring daptomycin resistance	antibiotic target alteration;antibiotic efflux
+Enterococcus faecalis liaS mutant conferring daptomycin resistance	antibiotic target alteration;antibiotic efflux
+Enterococcus faecalis liaR mutant conferring daptomycin resistance	antibiotic target alteration;antibiotic efflux
+SPM-1	antibiotic inactivation
+Staphylococcus aureus walK with mutation conferring resistance to daptomycin	antibiotic target alteration
+Acinetobacter baumannii ampC beta-lactamase	antibiotic inactivation
+Enterococcus faecalis YybT with mutation conferring daptomycin resistance	antibiotic target alteration
+bcr-1	antibiotic efflux
+Enterococcus faecalis gshF with mutation conferring daptomycin resistance	antibiotic target alteration
+Escherichia coli acrR with mutation conferring multidrug antibiotic resistance	antibiotic target alteration;antibiotic efflux
+carO	reduced permeability to antibiotic;resistance by absence
+Acinetobacter baumannii OprD conferring resistance to imipenem	reduced permeability to antibiotic;resistance by absence
+Streptomyces cinnamoneus EF-Tu mutants conferring resistance to elfamycin	antibiotic target alteration
+Acinetobacter baumannii gyrA conferring resistance to fluoroquinolones	antibiotic target alteration
+Acinetobacter baumannii parC conferring resistance to fluoroquinolones	antibiotic target alteration
+mgrB	antibiotic target alteration;antibiotic efflux;resistance by absence
+cdeA	antibiotic efflux
+qacH	antibiotic efflux
+gadW	antibiotic efflux
+TLA-3	antibiotic inactivation
+MUS-2	antibiotic inactivation
+MOX-9	antibiotic inactivation
+kdpE	antibiotic efflux
+LEN-26	antibiotic inactivation
+ADC-1	antibiotic inactivation
+ADC-2	antibiotic inactivation
+ADC-3	antibiotic inactivation
+ADC-4	antibiotic inactivation
+ADC-5	antibiotic inactivation
+ADC-6	antibiotic inactivation
+ADC-7	antibiotic inactivation
+ADC-8	antibiotic inactivation
+ADC-12	antibiotic inactivation
+ADC-13	antibiotic inactivation
+ADC-14	antibiotic inactivation
+ADC-15	antibiotic inactivation
+ADC-16	antibiotic inactivation
+ADC-17	antibiotic inactivation
+ADC-18	antibiotic inactivation
+ADC-19	antibiotic inactivation
+ADC-20	antibiotic inactivation
+ADC-21	antibiotic inactivation
+ADC-22	antibiotic inactivation
+ADC-23	antibiotic inactivation
+ADC-25	antibiotic inactivation
+ADC-31	antibiotic inactivation
+ADC-39	antibiotic inactivation
+ADC-41	antibiotic inactivation
+ADC-42	antibiotic inactivation
+ADC-43	antibiotic inactivation
+ADC-44	antibiotic inactivation
+ADC-56	antibiotic inactivation
+ADC-61	antibiotic inactivation
+ADC-74	antibiotic inactivation
+ADC-75	antibiotic inactivation
+ADC-76	antibiotic inactivation
+ADC-77	antibiotic inactivation
+ADC-78	antibiotic inactivation
+ADC-79	antibiotic inactivation
+ADC-81	antibiotic inactivation
+ADC-82	antibiotic inactivation
+Escherichia coli GlpT with mutation conferring resistance to fosfomycin	antibiotic target alteration
+Escherichia coli UhpT with mutation conferring resistance to fosfomycin	antibiotic target alteration
+Escherichia coli UhpA with mutation conferring resistance to fosfomycin	antibiotic target alteration
+Rm3	antibiotic inactivation
+Escherichia coli UhpA with mutation conferring resistance to fosfomycin	antibiotic target alteration
+Escherichia coli PtsI with mutation conferring resistance to fosfomycin	antibiotic target alteration
+Escherichia coli cyaA with mutation conferring resistance to fosfomycin	antibiotic target alteration
+Escherichia coli cyaA with mutation conferring resistance to fosfomycin	antibiotic target alteration
+Staphylococcus aureus GlpT with mutation conferring resistance to fosfomycin	antibiotic target alteration
+Staphylococcus aureus UhpT with mutation conferring resistance to fosfomycin	antibiotic target alteration
+ANT(4')-Ib	antibiotic inactivation
+cipA	antibiotic target alteration
+Erm(47)	antibiotic target alteration
+Staphylococcus aureus menA with mutation conferring resistance to lysocin	antibiotic target alteration
+apmA	antibiotic inactivation
+OXA-368	antibiotic inactivation
+pgpB	antibiotic target alteration
+TEM-220	antibiotic inactivation
+oqxA	antibiotic efflux
+oqxB	antibiotic efflux
+Haemophilus parainfluenzae gyrA conferring resistance to fluoroquinolones	antibiotic target alteration
+Haemophilus parainfluenzae parC conferring resistance to fluoroquinolones	antibiotic target alteration
+Salmonella enterica gyrA conferring resistance to fluoroquinolones	antibiotic target alteration
+Neisseria gonorrhoeae gyrA conferring resistance to fluoroquinolones	antibiotic target alteration
+Neisseria gonorrhoeae parC conferring resistance to fluoroquinolones	antibiotic target alteration
+rpsJ	antibiotic target protection
+Capnocytophaga gingivalis gyrA conferring resistance to fluoroquinolones	antibiotic target alteration
+Neisseria meningititis PBP2 conferring resistance to beta-lactam	antibiotic target alteration
+Salmonella enterica parC conferring resistance to fluoroquinolones	antibiotic target alteration
+Shigella flexneri gyrA conferring resistance to fluoroquinolones	antibiotic target alteration
+Shigella flexneri parC conferring resistance to fluoroquinolones	antibiotic target alteration
+abcA	antibiotic efflux
+efrA	antibiotic efflux
+efrB	antibiotic efflux
+msbA	antibiotic efflux
+YojI	antibiotic efflux
+hmrM	antibiotic efflux
+efmA	antibiotic efflux
+efpA	antibiotic efflux
+farA	antibiotic efflux
+farB	antibiotic efflux
+hp1181	antibiotic efflux
+Klebsiella pneumoniae OmpK35	reduced permeability to antibiotic;resistance by absence
+lfrA	antibiotic efflux
+Klebsiella pneumoniae OmpK36	reduced permeability to antibiotic;resistance by absence
+lmrP	antibiotic efflux
+D-Ala-D-Ala ligase	antibiotic target alteration
+Erm(44)v	antibiotic target alteration
+Cutibacterium acnes gyrA conferring resistance to fluoroquinolones	antibiotic target alteration
+Halobacterium salinarum 16S rRNA mutation conferring resistance to pactamycin	antibiotic target alteration
+Helicobacter pylori 16S rRNA mutation conferring resistance to tetracycline	antibiotic target alteration
+Chlamydomonas reinhardtii 16S rRNA (rrnS) mutation conferring resistance to streptomycin	antibiotic target alteration
+tetA(58)	antibiotic efflux
+tetB(58)	antibiotic efflux
+LlmA 23S ribosomal RNA methyltransferase	antibiotic target alteration
+CatU	antibiotic inactivation
+BahA	antibiotic inactivation
+TaeA	antibiotic efflux
+VatI	antibiotic inactivation
+AAC(2')-IIb	antibiotic inactivation
+AAC(6')-34	antibiotic inactivation
+vgbC	antibiotic inactivation
+mphI	antibiotic inactivation
+rphB	antibiotic inactivation
+cpaA	antibiotic inactivation
+Clostridioides difficile gyrA conferring resistance to fluoroquinolones	antibiotic target alteration
+mphE	antibiotic inactivation
+tetA(46)	antibiotic efflux
+tetB(46)	antibiotic efflux
+tetA(60)	antibiotic efflux
+tetB(60)	antibiotic efflux
+adeL	antibiotic efflux
+Pseudomonas aeruginosa emrE	antibiotic efflux
+Escherichia coli emrE	antibiotic efflux
+Klebsiella pneumoniae acrA	antibiotic efflux
+Enterobacter cloacae acrA	antibiotic efflux
+Escherichia coli acrA	antibiotic efflux
+Escherichia coli fabI mutations conferring resistance to isoniazid and triclosan	antibiotic target alteration
+Escherichia coli fabG mutations conferring resistance to triclosan	antibiotic target alteration
+Pseudomonas aeruginosa CpxR	antibiotic efflux
+ArmR	antibiotic efflux
+Staphylococcus aureus 23S rRNA with mutation conferring resistance to linezolid	antibiotic target alteration
+Type A NfxB	antibiotic efflux
+Type B NfxB	antibiotic efflux
+EdeQ	antibiotic inactivation
+MvaT	antibiotic efflux
+OpmB	antibiotic efflux
+MuxA	antibiotic efflux
+MuxB	antibiotic efflux
+MuxC	antibiotic efflux
+PmpM	antibiotic efflux
+lnuG	antibiotic inactivation
+APH(3')-VIIIb	antibiotic inactivation
+APH(3')-IX	antibiotic inactivation
+ANT(3'')-IIa	antibiotic inactivation
+HMB-1	antibiotic inactivation
+ANT(3'')-IIb	antibiotic inactivation
+ANT(3'')-IIc	antibiotic inactivation
+NDM-17	antibiotic inactivation
+LpeA	antibiotic efflux
+LpeB	antibiotic efflux
+kamB	antibiotic target alteration
+QepA2	antibiotic efflux
+TMB-1	antibiotic inactivation
+TMB-2	antibiotic inactivation
+Pseudomonas aeruginosa soxR	antibiotic target alteration;antibiotic efflux
+MCR-2.1	antibiotic target alteration
+FosA6	antibiotic inactivation
+FosA7	antibiotic inactivation
+porin OmpC	reduced permeability to antibiotic
+Vibrio cholerae OmpU	reduced permeability to antibiotic
+Vibrio cholerae OmpT	reduced permeability to antibiotic
+Klebsiella pneumoniae OmpK37	reduced permeability to antibiotic
+Burkholderia pseudomallei Omp38	reduced permeability to antibiotic
+Moraxella catarrhalis M35	reduced permeability to antibiotic;resistance by absence
+Escherichia coli LamB	reduced permeability to antibiotic;resistance by absence
+Escherichia coli mipA	reduced permeability to antibiotic;resistance by absence
+Serratia marcescens Omp1	reduced permeability to antibiotic;resistance by absence
+Streptococcus mitis CdsA with mutation conferring daptomycin resistance	antibiotic target alteration
+Moraxella catarrhalis 23S rRNA with mutation conferring resistance to macrolide antibiotics	antibiotic target alteration
+Chlamydomonas reinhardtii 23S rRNA with mutation conferring resistance to erythromycin	antibiotic target alteration
+Helicobacter pylori 23S rRNA with mutation conferring resistance to clarithromycin	antibiotic target alteration
+MCR-3.1	antibiotic target alteration
+OprZ	antibiotic efflux
+AxyX	antibiotic efflux
+AxyZ	antibiotic target alteration;antibiotic efflux
+AxyY	antibiotic efflux
+cfrC	antibiotic target alteration
+Escherichia coli 23S rRNA with mutation conferring resistance to erythromycin and telithromycin	antibiotic target alteration
+Mycobacterium tuberculosis thyA with mutation conferring resistance to para-aminosalicylic acid	antibiotic target alteration
+Mycobacterium tuberculosis folC with mutation conferring resistance to para-aminosalicylic acid	antibiotic target alteration
+Mycoplasma gallisepticum 23S rRNA mutation conferring resistance to pleuromutilin antibiotics	antibiotic target alteration
+Escherichia coli 23S rRNA with mutation conferring resistance to clindamycin	antibiotic target alteration
+Escherichia coli 23S rRNA with mutation conferring resistance to clarithromycin	antibiotic target alteration
+Propionibacteria 23S rRNA with mutation conferring resistance to macrolide antibiotics	antibiotic target alteration
+Mycobacteroides abscessus 23S rRNA with mutation conferring resistance to clarithromycin	antibiotic target alteration
+Mycobacterium avium 23S rRNA with mutation conferring resistance to clarithromycin	antibiotic target alteration
+Mycobacteroides chelonae 23S rRNA with mutation conferring resistance to clarithromycin	antibiotic target alteration
+Mycobacterium intracellulare 23S rRNA with mutation conferring resistance to clarithromycin	antibiotic target alteration
+Mycobacterium intracellulare 23S rRNA with mutation conferring resistance to azithromycin	antibiotic target alteration
+Mycobacterium kansasii 23S rRNA with mutation conferring resistance to clarithromycin	antibiotic target alteration
+Mycolicibacterium smegmatis 23S rRNA with mutation conferring resistance to clarithromycin	antibiotic target alteration
+Streptococcus pneumoniae 23S rRNA with mutation conferring resistance to macrolide antibiotics	antibiotic target alteration
+Streptomyces ambofaciens 23S rRNA with mutation conferring resistance to macrolide antibiotics	antibiotic target alteration
+Escherichia coli 23S rRNA with mutation conferring resistance to oxazolidinone antibiotics	antibiotic target alteration
+Chlamydia trachomatis 23S rRNA with mutation conferring resistance to macrolide antibiotics	antibiotic target alteration
+Mycoplasma hominis 23S rRNA with mutation conferring resistance to macrolide antibiotics	antibiotic target alteration
+Mycoplasma fermentans 23S rRNA with mutation conferring resistance to macrolide antibiotics	antibiotic target alteration
+Mycoplasma pneumoniae 23S rRNA mutation conferring resistance to erythromycin	antibiotic target alteration
+Halobacterium halobium 23S rRNA mutation conferring resistance to chloramphenicol	antibiotic target alteration
+Streptococcus pneumoniae 23S rRNA mutation conferring resistance to macrolides and streptogramins antibiotics	antibiotic target alteration
+Mycobacterium tuberculosis ribD with mutation conferring resistance to para-aminosalicylic acid	antibiotic target replacement
+mecD	antibiotic target replacement
+rpoB2	antibiotic target alteration;antibiotic target replacement
+AAC(2')-Ie	antibiotic inactivation
+Brachyspira hyodysenteriae 23S rRNA with mutation conferring resistance to tylosin	antibiotic target alteration
+Mycobacterium tuberculosis iniB with mutation conferring resistance to ethambutol	antibiotic target alteration;antibiotic efflux
+Bla2	antibiotic inactivation
+APH(2'')-If	antibiotic inactivation
+MCR-1.2	antibiotic target alteration
+GOB-18	antibiotic inactivation
+NPS-1	antibiotic inactivation
+Escherichia coli 23S rRNA with mutation conferring resistance to chloramphenicol	antibiotic target alteration
+Vibrio cholerae varG	antibiotic inactivation
+Escherichia coli ampC beta-lactamase	antibiotic inactivation
+Rhodobacter sphaeroides ampC beta-lactamase	antibiotic inactivation
+Laribacter hongkongensis ampC beta-lactamase	antibiotic inactivation
+BUT-1	antibiotic inactivation
+MCR-4.1	antibiotic target alteration
+MCR-5.1	antibiotic target alteration
+Salmonella enterica gyrA with mutation conferring resistance to triclosan	antibiotic target alteration
+Escherichia coli gyrA with mutation conferring resistance to triclosan	antibiotic target alteration
+PDC-73	antibiotic inactivation
+PDC-74	antibiotic inactivation
+PDC-75	antibiotic inactivation
+PDC-76	antibiotic inactivation
+PDC-77	antibiotic inactivation
+PDC-78	antibiotic inactivation
+PDC-79	antibiotic inactivation
+PDC-80	antibiotic inactivation
+PDC-81	antibiotic inactivation
+PDC-82	antibiotic inactivation
+PDC-83	antibiotic inactivation
+PDC-84	antibiotic inactivation
+PDC-85	antibiotic inactivation
+PDC-86	antibiotic inactivation
+PDC-87	antibiotic inactivation
+PDC-88	antibiotic inactivation
+PDC-89	antibiotic inactivation
+PDC-90	antibiotic inactivation
+PDC-91	antibiotic inactivation
+PDC-92	antibiotic inactivation
+PDC-93	antibiotic inactivation
+catV	antibiotic inactivation
+ACI-1	antibiotic inactivation
+sul4	antibiotic target replacement
+OXA-436	antibiotic inactivation
+OXA-535	antibiotic inactivation
+almG	antibiotic target alteration
+QepA4	antibiotic efflux
+tet(59)	antibiotic efflux
+tet(W/N/W)	antibiotic target protection
+RSA-1	antibiotic inactivation
+RSA-2	antibiotic inactivation
+Haemophilus influenzae PBP3 conferring resistance to beta-lactam antibiotics	antibiotic target alteration
+HERA-1	antibiotic inactivation
+TRU-1	antibiotic inactivation
+Agrobacterium fabrum chloramphenicol acetyltransferase	antibiotic inactivation
+Bacillus clausii chloramphenicol acetyltransferase	antibiotic inactivation
+Campylobacter coli chloramphenicol acetyltransferase	antibiotic inactivation
+Streptococcus suis chloramphenicol acetyltransferase	antibiotic inactivation
+Enterococcus faecium chloramphenicol acetyltransferase	antibiotic inactivation
+Staphylococcus intermedius chloramphenicol acetyltransferase	antibiotic inactivation
+Enterococcus faecalis chloramphenicol acetyltransferase	antibiotic inactivation
+Vibrio anguillarum chloramphenicol acetyltransferase	antibiotic inactivation
+EBR-2	antibiotic inactivation
+CFE-2	antibiotic inactivation
+ICR-Mc	antibiotic target alteration
+CrpP	antibiotic inactivation
+poxtA	antibiotic target protection
+vmlR	antibiotic target protection
+OXA-664	antibiotic inactivation
+OXA-665	antibiotic inactivation
+OXA-274	antibiotic inactivation
+OXA-286	antibiotic inactivation
+Bifidobacterium adolescentis rpoB mutants conferring resistance to rifampicin	antibiotic target alteration;antibiotic target replacement
+OXA-663	antibiotic inactivation
+ADC-68	antibiotic inactivation
+IMP-55	antibiotic inactivation
+IMP-56	antibiotic inactivation
+KPC-24	antibiotic inactivation
+dfrB4	antibiotic target replacement
+MCR-3.11	antibiotic target alteration
+MCR-6.1	antibiotic target alteration
+MCR-2.2	antibiotic target alteration
+MCR-3.6	antibiotic target alteration
+MCR-3.10	antibiotic target alteration
+MCR-3.5	antibiotic target alteration
+MCR-1.10	antibiotic target alteration
+MCR-1.9	antibiotic target alteration
+MCR-3.9	antibiotic target alteration
+MCR-3.8	antibiotic target alteration
+MCR-3.7	antibiotic target alteration
+MCR-3.2	antibiotic target alteration
+MCR-1.6	antibiotic target alteration
+MCR-1.3	antibiotic target alteration
+MCR-1.4	antibiotic target alteration
+MCR-8.1	antibiotic target alteration
+MCR-7.1	antibiotic target alteration
+mphH	antibiotic inactivation
+mphK	antibiotic inactivation
+mphN	antibiotic inactivation
+mphO	antibiotic inactivation
+mphJ	antibiotic inactivation
+Campylobacter jejuni 23S rRNA with mutation conferring resistance to erythromycin	antibiotic target alteration
+NDM-11	antibiotic inactivation
+dfrA6	antibiotic target replacement
+dfrA9	antibiotic target replacement
+dfrB5	antibiotic target replacement
+dfrA27	antibiotic target replacement
+dfrA28	antibiotic target replacement
+dfrA30	antibiotic target replacement
+dfrA29	antibiotic target replacement
+dfrA32	antibiotic target replacement
+dfrB7	antibiotic target replacement
+CAM-1	antibiotic inactivation
+Clostridioides difficile murG with mutation conferring resistance to vancomycin	antibiotic target alteration
+Clostridioides difficile gyrB conferring resistance to fluoroquinolones	antibiotic target alteration
+Clostridioides difficile rpoB with mutation conferring resistance to rifampicin	antibiotic target alteration;antibiotic target replacement
+dfrA18	antibiotic target replacement
+ICR-Mo	antibiotic target alteration
+PNGM-1	antibiotic inactivation
+Staphylococcus aureus LmrS	antibiotic efflux
+Acinetobacter baumannii AbaF	antibiotic efflux
+Acinetobacter baumannii AbaQ	antibiotic efflux
+Acinetobacter baumannii AmvA	antibiotic efflux
+Acinetobacter baumannii AbuO	antibiotic efflux
+Klebsiella pneumoniae KpnE	antibiotic efflux
+tet(48)	antibiotic inactivation
+tet(49)	antibiotic inactivation
+Klebsiella pneumoniae KpnF	antibiotic efflux
+tet(50)	antibiotic inactivation
+tet(51)	antibiotic inactivation
+tet(52)	antibiotic inactivation
+tet(53)	antibiotic inactivation
+Erm(48)	antibiotic target alteration
+tet(54)	antibiotic inactivation
+tet(55)	antibiotic inactivation
+erm(32)	antibiotic target alteration
+erm(45)	antibiotic target alteration
+erm(46)	antibiotic target alteration
+Klebsiella pneumoniae KpnG	antibiotic efflux
+Klebsiella pneumoniae KpnH	antibiotic efflux
+clcD	antibiotic target alteration
+LnuP	antibiotic inactivation
+tet(56)	antibiotic inactivation
+ermZ	antibiotic target alteration
+erm(40)	antibiotic target alteration
+EreD	antibiotic inactivation
+Escherichia coli ampC1 beta-lactamase	antibiotic inactivation
+Escherichia coli ampH beta-lactamase	antibiotic inactivation
+Tet(47)	antibiotic inactivation
+ADC-11	antibiotic inactivation
+ACT-38	antibiotic inactivation
+Mycoplasma genitalium 23S rRNA mutations confers resistance to fluoroquinolone and macrolide antibiotics	antibiotic target alteration
+ACT-8	antibiotic inactivation
+ADC-10	antibiotic inactivation
+ADC-30	antibiotic inactivation
+ADC-58	antibiotic inactivation
+ADC-59	antibiotic inactivation
+ADC-60	antibiotic inactivation
+AAC(6')-Ian	antibiotic inactivation
+QnrS10	antibiotic target protection
+AAC(3)-IIe	antibiotic inactivation
+AAC(3)-IId	antibiotic inactivation
+QnrS11	antibiotic target protection
+Erm(49)	antibiotic target alteration
+QnrS12	antibiotic target protection
+QnrS15	antibiotic target protection
+AAC(2')-IIa	antibiotic inactivation
+AAC(6')-Im	antibiotic inactivation
+Mycoplasma genitalium parC mutations confers resistance to Moxifloxacin	antibiotic target alteration
+Mycoplasma genitalium gyrA mutation confers resistance to fluoroquinolones	antibiotic target alteration
+ADC-62	antibiotic inactivation
+ADC-67	antibiotic inactivation
+ADC-73	antibiotic inactivation
+AAC(6')-Il	antibiotic inactivation
+qnrE1	antibiotic target protection
+qnrE2	antibiotic target protection
+Corynebacterium striatum tetA	antibiotic efflux
+AAC(6')-Iag	antibiotic inactivation
+dfrA15b	antibiotic target replacement
+aacA43	antibiotic inactivation
+Erm(K)	antibiotic target alteration
+dfrA3b	antibiotic target replacement
+dfrA6 from Proteus mirabilis	antibiotic target replacement
+dfrI	antibiotic target replacement
+AQU-2	antibiotic inactivation
+AQU-3	antibiotic inactivation
+cfr(B)	antibiotic target alteration
+tetU	antibiotic efflux
+Erm(O)-lrm	antibiotic target alteration
+Clostridioides difficile 23S rRNA with mutation conferring resistance to erythromycin and clindamycin	antibiotic target alteration
+catII from Escherichia coli K-12	antibiotic inactivation
+OXA-296	antibiotic inactivation
+catA4	antibiotic inactivation
+catA8	antibiotic inactivation
+Mef(En2)	antibiotic efflux
+catB11	antibiotic inactivation
+lin	antibiotic inactivation
+Staphylococcus aureus FosB	antibiotic inactivation
+MCR-3.3	antibiotic target alteration
+FusF	antibiotic target protection
+cmlA8	antibiotic efflux
+pexA	antibiotic efflux
+Staphylococcus aureus norA	antibiotic efflux
+emtA	antibiotic target alteration
+FosB1	antibiotic inactivation
+FosB4	antibiotic inactivation
+FosB5	antibiotic inactivation
+FosB6	antibiotic inactivation
+FosD	antibiotic inactivation
+aphA15	antibiotic inactivation
+rmtD2	antibiotic target alteration
+rmtE	antibiotic target alteration
+rmtE2	antibiotic target alteration
+APH(3')-VIIIa	antibiotic inactivation
+Clostridioides difficile rpoC with mutation conferring resistance to vancomycin	antibiotic target alteration
+aadA27	antibiotic inactivation
+aadS	antibiotic inactivation
+MCR-9.1	antibiotic target alteration
+MCR-1.5	antibiotic target alteration
+MCR-1.7	antibiotic target alteration
+MCR-1.8	antibiotic target alteration
+MCR-1.11	antibiotic target alteration
+MCR-1.12	antibiotic target alteration
+MCR-1.13	antibiotic target alteration
+MCR-3.4	antibiotic target alteration
+MCR-3.12	antibiotic target alteration
+MCR-4.2	antibiotic target alteration
+MCR-4.3	antibiotic target alteration
+MCR-4.4	antibiotic target alteration
+MCR-4.5	antibiotic target alteration
+MCR-5.2	antibiotic target alteration
+sta	antibiotic inactivation
+aadA10	antibiotic inactivation
+aadA8b	antibiotic inactivation
+vga(E) Staphylococcus cohnii	antibiotic target protection
+Tet(X3)	antibiotic inactivation
+Tet(X4)	antibiotic inactivation
+Mycobacterium tuberculosis rpsA mutations conferring resistance to pyrazinamide	antibiotic target alteration
+OXA-402	antibiotic inactivation
+OXA-140	antibiotic inactivation
+OXA-103	antibiotic inactivation
+OXA-122	antibiotic inactivation
+OXA-123	antibiotic inactivation
+OXA-124	antibiotic inactivation
+OXA-125	antibiotic inactivation
+OXA-126	antibiotic inactivation
+OXA-127	antibiotic inactivation
+OXA-151	antibiotic inactivation
+OXA-152	antibiotic inactivation
+OXA-153	antibiotic inactivation
+OXA-154	antibiotic inactivation
+OXA-155	antibiotic inactivation
+OXA-156	antibiotic inactivation
+OXA-157	antibiotic inactivation
+OXA-158	antibiotic inactivation
+OXA-185	antibiotic inactivation
+OXA-234	antibiotic inactivation
+OXA-252	antibiotic inactivation
+OXA-259	antibiotic inactivation
+OXA-260	antibiotic inactivation
+OXA-261	antibiotic inactivation
+OXA-262	antibiotic inactivation
+OXA-263	antibiotic inactivation
+OXA-264	antibiotic inactivation
+OXA-265	antibiotic inactivation
+OXA-266	antibiotic inactivation
+OXA-267	antibiotic inactivation
+OXA-268	antibiotic inactivation
+OXA-269	antibiotic inactivation
+OXA-270	antibiotic inactivation
+OXA-271	antibiotic inactivation
+OXA-272	antibiotic inactivation
+OXA-273	antibiotic inactivation
+OXA-275	antibiotic inactivation
+OXA-276	antibiotic inactivation
+OXA-277	antibiotic inactivation
+OXA-279	antibiotic inactivation
+OXA-280	antibiotic inactivation
+OXA-281	antibiotic inactivation
+OXA-282	antibiotic inactivation
+OXA-283	antibiotic inactivation
+OXA-284	antibiotic inactivation
+OXA-285	antibiotic inactivation
+OXA-287	antibiotic inactivation
+OXA-288	antibiotic inactivation
+OXA-291	antibiotic inactivation
+OXA-292	antibiotic inactivation
+OXA-293	antibiotic inactivation
+OXA-294	antibiotic inactivation
+OXA-295	antibiotic inactivation
+OXA-297	antibiotic inactivation
+OXA-298	antibiotic inactivation
+OXA-299	antibiotic inactivation
+OXA-300	antibiotic inactivation
+OXA-301	antibiotic inactivation
+OXA-302	antibiotic inactivation
+OXA-303	antibiotic inactivation
+OXA-304	antibiotic inactivation
+OXA-305	antibiotic inactivation
+OXA-306	antibiotic inactivation
+OXA-308	antibiotic inactivation
+OXA-336	antibiotic inactivation
+OXA-337	antibiotic inactivation
+OXA-339	antibiotic inactivation
+OXA-340	antibiotic inactivation
+OXA-341	antibiotic inactivation
+OXA-342	antibiotic inactivation
+OXA-343	antibiotic inactivation
+OXA-344	antibiotic inactivation
+OXA-345	antibiotic inactivation
+OXA-346	antibiotic inactivation
+OXA-364	antibiotic inactivation
+OXA-372	antibiotic inactivation
+OXA-373	antibiotic inactivation
+tva(A)	antibiotic target protection
+OXA-392	antibiotic inactivation
+OXA-400	antibiotic inactivation
+OXA-401	antibiotic inactivation
+OXA-403	antibiotic inactivation
+OXA-404	antibiotic inactivation
+OXA-405	antibiotic inactivation
+OXA-406	antibiotic inactivation
+OXA-407	antibiotic inactivation
+OXA-408	antibiotic inactivation
+OXA-409	antibiotic inactivation
+OXA-411	antibiotic inactivation
+OXA-412	antibiotic inactivation
+OXA-413	antibiotic inactivation
+OXA-414	antibiotic inactivation
+OXA-416	antibiotic inactivation
+OXA-417	antibiotic inactivation
+OXA-427	antibiotic inactivation
+OXA-429	antibiotic inactivation
+OXA-430	antibiotic inactivation
+OXA-431	antibiotic inactivation
+OXA-432	antibiotic inactivation
+OXA-433	antibiotic inactivation
+OXA-437	antibiotic inactivation
+OXA-438	antibiotic inactivation
+OXA-439	antibiotic inactivation
+OXA-440	antibiotic inactivation
+OXA-441	antibiotic inactivation
+OXA-442	antibiotic inactivation
+OXA-443	antibiotic inactivation
+OXA-444	antibiotic inactivation
+OXA-446	antibiotic inactivation
+OXA-447	antibiotic inactivation
+OXA-448	antibiotic inactivation
+OXA-449	antibiotic inactivation
+OXA-450	antibiotic inactivation
+OXA-451	antibiotic inactivation
+OXA-452	antibiotic inactivation
+OXA-453	antibiotic inactivation
+OXA-455	antibiotic inactivation
+OXA-457	antibiotic inactivation
+OXA-458	antibiotic inactivation
+OXA-459	antibiotic inactivation
+OXA-460	antibiotic inactivation
+OXA-461	antibiotic inactivation
+OXA-464	antibiotic inactivation
+OXA-465	antibiotic inactivation
+OXA-466	antibiotic inactivation
+OXA-470	antibiotic inactivation
+OXA-471	antibiotic inactivation
+OXA-472	antibiotic inactivation
+OXA-473	antibiotic inactivation
+OXA-474	antibiotic inactivation
+OXA-475	antibiotic inactivation
+OXA-476	antibiotic inactivation
+OXA-477	antibiotic inactivation
+OXA-478	antibiotic inactivation
+OXA-479	antibiotic inactivation
+OXA-480	antibiotic inactivation
+OXA-482	antibiotic inactivation
+OXA-483	antibiotic inactivation
+OXA-484	antibiotic inactivation
+OXA-485	antibiotic inactivation
+OXA-486	antibiotic inactivation
+OXA-488	antibiotic inactivation
+ARL-1	antibiotic inactivation
+ARL-2	antibiotic inactivation
+ARL-3	antibiotic inactivation
+ARL-4	antibiotic inactivation
+ARL-5	antibiotic inactivation
+ARL-6	antibiotic inactivation
+AST-1	antibiotic inactivation
+MIR-23	antibiotic inactivation
+BAT-1	antibiotic inactivation
+BCL-1	antibiotic inactivation
+BES-1	antibiotic inactivation
+BIC-1	antibiotic inactivation
+BIL-1	antibiotic inactivation
+BKC-1	antibiotic inactivation
+BPU-1	antibiotic inactivation
+BRO-1	antibiotic inactivation
+BRO-2	antibiotic inactivation
+CBP-1	antibiotic inactivation
+CGA-1	antibiotic inactivation
+CIA-1	antibiotic inactivation
+CIA-2	antibiotic inactivation
+CIA-3	antibiotic inactivation
+CIA-4	antibiotic inactivation
+CKO-1	antibiotic inactivation
+CME-1	antibiotic inactivation
+CMH-1	antibiotic inactivation
+CMY-132	antibiotic inactivation
+CMY-133	antibiotic inactivation
+CMY-135	antibiotic inactivation
+DES-1	antibiotic inactivation
+DHA-9	antibiotic inactivation
+ERP-1	antibiotic inactivation
+FAR-1	antibiotic inactivation
+FIM-1	antibiotic inactivation
+FONA-1	antibiotic inactivation
+FONA-2	antibiotic inactivation
+FONA-3	antibiotic inactivation
+FONA-4	antibiotic inactivation
+FONA-5	antibiotic inactivation
+FONA-6	antibiotic inactivation
+FPH-1	antibiotic inactivation
+FRI-1	antibiotic inactivation
+FRI-2	antibiotic inactivation
+FRI-3	antibiotic inactivation
+FTU-1	antibiotic inactivation
+GOB-10	antibiotic inactivation
+GOB-11	antibiotic inactivation
+GOB-12	antibiotic inactivation
+GOB-13	antibiotic inactivation
+GOB-14	antibiotic inactivation
+GOB-15	antibiotic inactivation
+GOB-16	antibiotic inactivation
+GOB-2	antibiotic inactivation
+GOB-3	antibiotic inactivation
+GOB-4	antibiotic inactivation
+GOB-5	antibiotic inactivation
+GOB-6	antibiotic inactivation
+GOB-7	antibiotic inactivation
+GOB-8	antibiotic inactivation
+GOB-9	antibiotic inactivation
+HERA-2	antibiotic inactivation
+HERA-3	antibiotic inactivation
+HERA-4	antibiotic inactivation
+HERA-5	antibiotic inactivation
+HERA-6	antibiotic inactivation
+HERA-8	antibiotic inactivation
+IMI-8	antibiotic inactivation
+IMP-49	antibiotic inactivation
+IMP-52	antibiotic inactivation
+LAP-1	antibiotic inactivation
+LAP-2	antibiotic inactivation
+LEN-17	antibiotic inactivation
+LEN-25	antibiotic inactivation
+LEN-35	antibiotic inactivation
+LEN-36	antibiotic inactivation
+LEN-37	antibiotic inactivation
+SHV-4	antibiotic inactivation
+Neisseria gonorrhoeae PBP2 conferring resistance to beta-lactam antibiotics	antibiotic target alteration
+Neisseria gonorrhoeae PBP1 conferring resistance to beta-lactam	antibiotic target alteration
+Neisseria gonorrhoeae pilQ gene conferring resistance to beta-lactam	antibiotic target alteration
+OXA-724	antibiotic inactivation
+LEN-30	antibiotic inactivation
+LEN-32	antibiotic inactivation
+LEN-34	antibiotic inactivation
+LEN-38	antibiotic inactivation
+LEN-39	antibiotic inactivation
+LEN-40	antibiotic inactivation
+LEN-41	antibiotic inactivation
+LEN-42	antibiotic inactivation
+LEN-43	antibiotic inactivation
+LEN-51	antibiotic inactivation
+LEN-55	antibiotic inactivation
+LEN-58	antibiotic inactivation
+Neisseria gonorrhoeae 23S rRNA with mutation conferring resistance to azithromycin	antibiotic target alteration
+Neisseria gonorrhoeae mtrR with mutation conferring resistance	antibiotic efflux
+Mycobacterium tuberculosis 16S rRNA mutation conferring resistance to capreomycin	antibiotic target alteration
+CMY-136	antibiotic inactivation
+SCO-1	antibiotic inactivation
+Neisseria gonorrhoeae gyrB conferring resistance to zoliflodacin	antibiotic target alteration
+Burkholderia dolosa gyrA conferring resistance to fluoroquinolones	antibiotic target alteration
+NDM-15	antibiotic inactivation
+NDM-16	antibiotic inactivation
+NDM-18	antibiotic inactivation
+NDM-19	antibiotic inactivation
+NDM-20	antibiotic inactivation
+NDM-21	antibiotic inactivation
+NDM-22	antibiotic inactivation
+NDM-23	antibiotic inactivation
+NDM-24	antibiotic inactivation
+NDM-25	antibiotic inactivation
+NDM-27	antibiotic inactivation
+NDM-28	antibiotic inactivation
+Neisseria gonorrhoeae folP with mutation conferring resistance to sulfonamides	antibiotic target alteration
+Neisseria gonorrhoeae rpld	antibiotic target alteration
+Mycobacterium tuberculosis 23S rRNA mutation conferring resistance to capreomycin	antibiotic target alteration
+tet(57)	antibiotic target protection
+TEM-181	antibiotic inactivation
+TxR	antibiotic efflux
+qacE	antibiotic efflux
+qacEdelta1	antibiotic efflux
+IDC-1	antibiotic inactivation
+IDC-2	antibiotic inactivation
+VMB-1	antibiotic inactivation
+APH(3')-VIb	antibiotic inactivation
+CMY-150	antibiotic inactivation
+LMB-1	antibiotic inactivation
+IMP-68	antibiotic inactivation
+cfr(D)	antibiotic target alteration
+FosL1	antibiotic inactivation
+FRI-4	antibiotic inactivation
+FRI-5	antibiotic inactivation
+FRI-6	antibiotic inactivation
+FRI-7	antibiotic inactivation
+FRI-8	antibiotic inactivation
+FRI-9	antibiotic inactivation
+FLC-1	antibiotic inactivation
+CTX-M-161	antibiotic inactivation
+CTX-M-162	antibiotic inactivation
+CTX-M-163	antibiotic inactivation
+CTX-M-164	antibiotic inactivation
+CTX-M-165	antibiotic inactivation
+CTX-M-166	antibiotic inactivation
+Yrc-1	antibiotic inactivation
+ADC-159	antibiotic inactivation
+PDC-65	antibiotic inactivation
+PDC-55	antibiotic inactivation
+YajC	antibiotic efflux
+mlaF	antibiotic efflux
+mlaD	antibiotic efflux
+cmlA9	antibiotic efflux
+OmpA	reduced permeability to antibiotic
+SatA	antibiotic inactivation
+BLMT	antibiotic inactivation
+MecC-type methicillin resistance repressor MecI	antibiotic target replacement
+eptB	antibiotic target alteration
+CrcB	antibiotic efflux
+LpsB	reduced permeability to antibiotic
+LpsA	reduced permeability to antibiotic
+ArnT	antibiotic target alteration
+Tet(X6)	antibiotic inactivation
+Tet(X5)	antibiotic inactivation
+LptD	antibiotic efflux
+OXA-837	antibiotic inactivation
+AAC(3)-IVb	antibiotic inactivation
+ANT(3'')-Ib	antibiotic inactivation
+cprR	antibiotic target alteration;antibiotic efflux
+cprS	antibiotic target alteration;antibiotic efflux
+ParS	antibiotic efflux;reduced permeability to antibiotic
+ParR	antibiotic efflux;reduced permeability to antibiotic
+rsmA	antibiotic efflux
+ROB-2	antibiotic inactivation
+ROB-3	antibiotic inactivation
+ROB-4	antibiotic inactivation
+ROB-5	antibiotic inactivation
+ROB-6	antibiotic inactivation
+ROB-7	antibiotic inactivation
+ROB-9	antibiotic inactivation
+ROB-8	antibiotic inactivation
+ROB-10	antibiotic inactivation
+Thermus thermophilus uL3 mutations conferring resistance to pleuromutilin antibiotics	antibiotic target alteration
+Thermus thermophilus 23s rRNA conferring resistance to pleuromutilin antibiotics	antibiotic target alteration
+dfrA31	antibiotic target replacement
+AAC(3)-IIg	antibiotic inactivation
+msrF	antibiotic target protection
+msrH	antibiotic target protection
+mef(D)	antibiotic efflux
+RanB	antibiotic efflux
+RanA	antibiotic efflux
+OXA-899	antibiotic inactivation
+OXA-898	antibiotic inactivation
+GPC-1	antibiotic inactivation

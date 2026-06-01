@@ -1,0 +1,500 @@
+#药物注释1	药物注释2	药物分类中文名称	药物亚分类中文名称	药物注释3	药物注释4	药物分注释5	药物分类英文名	药物英文名	药物中文名
+半合成青霉素	β内酰胺类	青霉素类	苯氧青霉素	苯氧青霉素			penam	propicillin	丙匹西林
+半合成青霉素	β内酰胺类	青霉素类	广谱青霉素	氨基青霉素	广谱青霉素		penam	amoxicillin	阿莫西林
+半合成青霉素	β内酰胺类	青霉素类	广谱青霉素	氨基青霉素	广谱青霉素		penam	ampicillin	氨苄西林
+半合成青霉素	β内酰胺类	青霉素类	抗革兰阴性菌青霉素			抗革兰阴性菌青霉素	penam	temocillin	替莫西林
+半合成青霉素	β内酰胺类	青霉素类	抗假单胞菌广谱青霉素		广谱青霉素	抗假单胞菌青霉素	penam	carbenicillin	羧苄西林
+半合成青霉素	β内酰胺类	青霉素类	抗假单胞菌广谱青霉素		广谱青霉素	抗假单胞菌青霉素	penam	piperacillin	哌拉西林
+半合成青霉素	β内酰胺类	青霉素类	抗假单胞菌广谱青霉素	苯咪唑类青霉素	广谱青霉素	抗假单胞菌青霉素	penam	azlocillin	阿洛西林
+半合成青霉素	β内酰胺类	青霉素类	抗假单胞菌广谱青霉素	苯咪唑类青霉素	广谱青霉素	抗假单胞菌青霉素	penam	mezlocillin	美洛西林
+半合成青霉素	β内酰胺类	青霉素类	抗假单胞菌广谱青霉素	苯咪唑类青霉素	广谱青霉素	抗假单胞菌青霉素	penam	mecillinam	美西林
+半合成青霉素	β内酰胺类	青霉素类	抗假单胞菌广谱青霉素		广谱青霉素	抗假单胞菌青霉素	penem	ticarcillin	替卡西林
+半合成青霉素	β内酰胺类	青霉素类	耐酶青霉素		耐酶青霉素		penam	methicillin	甲氧西林
+半合成青霉素	β内酰胺类	青霉素类	耐酶青霉素	异恶唑类青霉素类	耐酶青霉素		penam	cloxacillin	氯唑西林
+半合成青霉素	β内酰胺类	青霉素类	耐酶青霉素	异恶唑类青霉素类	耐酶青霉素		penam	oxacillin	苯唑西林
+半合成青霉素	β内酰胺类	青霉素类	耐酶青霉素	苯氧青霉素	耐酸青霉素		penam	phenoxymethylpenicillin	青霉素V
+半合成青霉素	β内酰胺类	青霉素类	耐酶青霉素	异恶唑类青霉素类	耐酶青霉素		penam	dicloxacillin	双氯西林
+半合成青霉素	β内酰胺类	青霉素类	耐酶青霉素	异恶唑类青霉素类	耐酶青霉素		penam	flucloxacillin	氟氯西林
+半合成青霉素	β内酰胺类	青霉素类	耐酶青霉素		耐酶青霉素		penam	nafcillin	萘夫西林
+半合成青霉素	β内酰胺类	青霉素类	青霉素类				penam	penicillin	青霉素
+天然青霉素	β内酰胺类	青霉素类	青霉素类				penam	benzylpenicillin	青霉素G
+半合成青霉素	β内酰胺类	青霉素类	青霉素类				penam	isopenicillin n	异青霉素N
+半合成青霉素	β内酰胺类	青霉素类	青霉素类				penam	penicillin n	青霉素N
+	β内酰胺类	青霉素类	青霉素类				penem	faropenem	法罗培南
+	β内酰胺类	青霉素类	青霉素类/酶抑制剂				penam	amoxicillin-clavulanic acid	阿莫西林/克拉维酸
+	β内酰胺类	青霉素类	青霉素类/酶抑制剂				penam	ampicillin-sulbactam	氨苄西林/舒巴坦
+	β内酰胺类	青霉素类	青霉素类/酶抑制剂				penam	piperacillin-sulbactam	哌拉西林/舒巴坦
+	β内酰胺类	青霉素类	青霉素类/酶抑制剂				penam	piperacillin-tazobactam	哌拉西林/他唑巴坦
+	β内酰胺类	青霉素类	青霉素类/酶抑制剂				penem	ticarcillin-clavulanic acid	替卡西林/克拉维酸
+天然青霉素	β内酰胺类	青霉素类	青霉素类				penam	benzathine 	苄星青霉素
+天然青霉素	β内酰胺类	青霉素类	青霉素类				penam	procaine penicillin	普鲁卡因青霉素
+半合成青霉素	β内酰胺类	青霉素类	抗假单胞菌广谱青霉素		广谱青霉素	抗假单胞菌青霉素	penam	apalcillin	阿帕西林
+半合成青霉素	β内酰胺类	青霉素类	抗假单胞菌广谱青霉素		广谱青霉素	抗假单胞菌青霉素	penam	furbencillin	呋布西林
+半合成青霉素	β内酰胺类	青霉素类	抗假单胞菌广谱青霉素		广谱青霉素	抗假单胞菌青霉素	penam	sulbenicillin	磺苄西林
+半合成青霉素	β内酰胺类	青霉素类	广谱青霉素		广谱青霉素		penam		巴氨西林
+半合成青霉素	β内酰胺类	青霉素类	广谱青霉素		广谱青霉素		penam	hetacillin	海他西林
+半合成青霉素	β内酰胺类	青霉素类	广谱青霉素		广谱青霉素		penam	lenampicillin	仑氨西林
+半合成青霉素	β内酰胺类	青霉素类	广谱青霉素		广谱青霉素		penam	pivampicillin	匹氨西林
+半合成青霉素	β内酰胺类	青霉素类	广谱青霉素	青霉烷类	广谱青霉素		penam		舒他西林
+半合成青霉素	β内酰胺类	青霉素类	广谱青霉素		广谱青霉素		penam		酞氨西林
+半合成青霉素	β内酰胺类	青霉素类	抗革兰阴性菌青霉素			抗革兰阴性菌青霉素	penam	pivamdinocillin	匹美西林
+半合成青霉素	β内酰胺类	青霉素类	耐酶青霉素		耐酶青霉素		penam		坦莫西林
+半合成青霉素	β内酰胺类	青霉素类	耐酶青霉素		耐酶青霉素		penam		新青霉素
+半合成青霉素	β内酰胺类	青霉素类	耐酶青霉素	苯氧青霉素	耐酸青霉素		penam		非奈西林
+半合成青霉素	β内酰胺类	青霉素类	苯氧青霉素	苯氧青霉素			penam		芬贝西林
+半合成青霉素	β内酰胺类	青霉素类	青霉素类				penam		阿美西林
+半合成青霉素	β内酰胺类	青霉素类	青霉素类				penam	aspoxicillin	阿扑西林
+半合成青霉素	β内酰胺类	青霉素类	青霉素类				penam	fomidacillin	福米西林
+半合成青霉素	β内酰胺类	青霉素类	青霉素类				penam		环己西林
+半合成青霉素	β内酰胺类	青霉素类	青霉素类				penam		卡非西林
+半合成青霉素	β内酰胺类	青霉素类	青霉素类				penam		卡茚西林
+半合成青霉素	β内酰胺类	青霉素类	青霉素类				penam		美坦西林
+半合成青霉素	β内酰胺类	青霉素类	青霉素类				penam	dicloxin	双氯青霉素
+	β内酰胺类	青霉素类	广谱青霉素		广谱青霉素		penam	amoxicillin-floxacillin	阿莫西林/氟氯西林
+	β内酰胺类	青霉素类	青霉素类				penam	amoxicillin-dicloxacillin	阿莫西林/双氯西林
+	β内酰胺类	青霉素类	青霉素类				penam	ampicillin-cloxacillin	氨苄西林/氯唑西林
+	β内酰胺类	青霉素类	青霉素类				penam	mezlocillin-sulbactam	美洛西林/舒巴坦
+	β内酰胺类	青霉素类	青霉素类				penam	mecillinam-sulbactam	美洛西林/舒巴坦
+	β内酰胺类	头孢菌素类	一代头孢				cephalosporin	cefazolin	头孢唑林
+	β内酰胺类	头孢菌素类	一代头孢				cephalosporin	cefalexin	头孢氨苄
+	β内酰胺类	头孢菌素类	一代头孢				cephalosporin	cefadroxil	头孢羟氨苄
+	β内酰胺类	头孢菌素类	一代头孢				cephalosporin	cefalotin	头孢噻吩
+	β内酰胺类	头孢菌素类	一代头孢				cephalosporin	cephapirin	头孢匹林
+	β内酰胺类	头孢菌素类	一代头孢				cephalosporin	cefradine	头孢拉定
+	β内酰胺类	头孢菌素类	二代头孢				cephalosporin	cefuroxime	头孢呋辛
+	β内酰胺类	头孢菌素类	二代头孢				cephalosporin	cefotiam	头孢替安
+	β内酰胺类	头孢菌素类	二代头孢				cephalosporin	cefaclor	头孢克洛
+	β内酰胺类	头孢菌素类	二代头孢				cephalosporin	cefamandole	头孢孟多
+	β内酰胺类	头孢菌素类	二代头孢				cephalosporin	cefonicid	头孢尼西
+	β内酰胺类	头孢菌素类	二代头孢				cephalosporin	cefprozil	头孢丙烯
+	β内酰胺类	头孢菌素类	二代头孢				cephalosporin	loracarbef	氯碳头孢
+	β内酰胺类	头孢菌素类	三代头孢				cephalosporin	ceftazidime	头孢他啶
+	β内酰胺类	头孢菌素类	三代头孢				cephalosporin	ceftriaxone	头孢曲松
+	β内酰胺类	头孢菌素类	三代头孢				cephalosporin	cefotaxime	头孢噻肟
+	β内酰胺类	头孢菌素类	三代头孢				cephalosporin	cefixime	头孢克肟
+	β内酰胺类	头孢菌素类	三代头孢				cephalosporin	cefpodoxime	头孢泊肟
+	β内酰胺类	头孢菌素类	三代头孢				cephalosporin	ceftibuten	头孢布坦
+	β内酰胺类	头孢菌素类	三代头孢				cephalosporin	cefdinir	头孢地尼
+	β内酰胺类	头孢菌素类	三代头孢				cephalosporin	cefetamet	头孢他美
+	β内酰胺类	头孢菌素类	三代头孢				cephalosporin	cefoperazone	头孢哌酮
+	β内酰胺类	头孢菌素类	三代头孢				cephalosporin	ceftizoxime	头孢唑肟
+	β内酰胺类	头孢菌素类	三代头孢				cephalosporin	cefsulodin	头孢磺啶
+	β内酰胺类	头孢菌素类	四代头孢				cephalosporin	cefepime	头孢吡肟
+	β内酰胺类	头孢菌素类	四代头孢				cephalosporin	cefpirome	头孢匹罗
+	β内酰胺类	头孢菌素类	五代头孢				cephalosporin	ceftaroline	头孢洛林
+	β内酰胺类	头孢菌素类	五代头孢				cephalosporin	ceftolozane	头孢妥洛坦
+	β内酰胺类	头孢菌素类/青霉素类	头孢菌素/青霉素复合制剂				cephalosporin-penam	ceftazidime-cloxacillin	头孢他啶/氯唑西林
+	β内酰胺类	头孢菌素类	头孢菌素类				cephalosporin	ceftobiprole	头孢托罗
+	β内酰胺类	头孢菌素类	头孢菌素类				cephalosporin	cefditoren	头孢托仑酯
+	β内酰胺类	头孢菌素类	头孢菌素类				cephalosporin	ceftiofur	头孢噻呋
+	β内酰胺类	头孢菌素类	头孢菌素类				cephalosporin	cephaloridine	头孢噻唑
+	β内酰胺类	头孢菌素类	头孢菌素类				cephalosporin	cefiderocol	头孢地尔
+	β内酰胺类	头孢菌素类	头孢菌素类				cephalosporin	ceftazidime-avibactam	头孢他啶/阿维巴坦
+	β内酰胺类	头孢菌素类	头孢菌素类				cephalosporin	ceftazidime-clavulanic acid	头孢他啶/克拉维酸
+	β内酰胺类	头孢菌素类	头孢菌素类				cephalosporin	cefotaxime-clavulanic acid	头孢噻肟/克拉维酸
+	β内酰胺类	头孢菌素类	头孢菌素类				cephalosporin	cefotaxime-tazobactam	头孢噻肟/他唑巴坦
+	β内酰胺类	头孢菌素类	头孢菌素类				cephalosporin	ceftazidime-tazobactam	头孢他啶/他唑巴坦
+	β内酰胺类	头孢菌素类	五代头孢				cephalosporin	ceftolozane-tazobactam	头孢妥洛坦/他唑巴坦
+	β内酰胺类	头孢菌素类	头孢菌素类				cephalosporin	moxalactam	拉氧头孢
+	β内酰胺类	头孢菌素类	一代头孢				cephalosporin	cefaloglycin	头孢来星
+	β内酰胺类	头孢菌素类	一代头孢				cephalosporin	cefathiamidine	头孢硫脒
+	β内酰胺类	头孢菌素类	一代头孢				cephalosporin	cefroxadine	头孢沙定
+	β内酰胺类	头孢菌素类	一代头孢				cephalosporin	ceftezole	头孢替唑
+	β内酰胺类	头孢菌素类	一代头孢				cephalosporin		头孢西酮
+	β内酰胺类	头孢菌素类	一代头孢				cephalosporin	cefacetrile	头孢乙氰
+	β内酰胺类	头孢菌素类	一代头孢				cephalosporin		头孢噻啶
+	β内酰胺类	头孢菌素类	一代头孢				cephalosporin		头孢曲嗪
+	β内酰胺类	头孢菌素类	二代头孢				cephalosporin	cefuroxime axetil	头孢呋辛酯
+	β内酰胺类	头孢菌素类	二代头孢				cephalosporin	ceforanide	头孢雷特
+	β内酰胺类	头孢菌素类	二代头孢				cephalosporin		头孢布烯
+	β内酰胺类	头孢菌素类	二代头孢				cephalosporin		头孢氮氟
+	β内酰胺类	头孢菌素类	三代头孢				cephalosporin	cefodizime	头孢地嗪
+	β内酰胺类	头孢菌素类	三代头孢				cephalosporin		头孢妥仑
+	β内酰胺类	头孢菌素类	三代头孢				cephalosporin	cefmenoxime	头孢甲肟
+	β内酰胺类	头孢菌素类	三代头孢				cephalosporin	cefpinmizole	头孢咪唑
+	β内酰胺类	头孢菌素类	三代头孢				cephalosporin	cefpiramide	头孢匹胺
+	β内酰胺类	头孢菌素类	三代头孢				cephalosporin	cefpodoxime proxetil 	头孢泊肟酯
+	β内酰胺类	头孢菌素类	三代头孢				cephalosporin	cefteram	头孢特仑
+	β内酰胺类	头孢菌素类	三代头孢				cephalosporin	cefuzonam	头孢唑喃
+	β内酰胺类	头孢菌素类	四代头孢				cephalosporin		头孢克定
+	β内酰胺类	头孢菌素类	四代头孢				cephalosporin		头孢匹普
+	β内酰胺类	头孢菌素类	四代头孢				cephalosporin		头孢噻利
+	β内酰胺类	头孢菌素类	五代头孢				cephalosporin		头孢吡普
+	β内酰胺类	头孢菌素类	一代头孢				cephalosporin		头孢氨苄-甲氧苄啶
+	β内酰胺类	头孢菌素类	一代头孢				cephalosporin		头孢羟氨苄-甲氧苄啶
+	β内酰胺类	头孢菌素类	三代头孢				cephalosporin	cefoperazone-sulbactam	头孢哌酮/舒巴坦
+	β内酰胺类	头孢菌素类	三代头孢				cephalosporin	cefoperazone-tazobactam	头孢哌酮/他唑巴坦
+	β内酰胺类	头孢菌素类	三代头孢				cephalosporin	cefotaxime-sulbactam	头孢噻肟/舒巴坦
+	β内酰胺类	头孢菌素类	三代头孢				cephalosporin	ceftriaxone-sulbactam	头孢曲松/舒巴坦
+	β内酰胺类	头孢菌素类	三代头孢				cephalosporin	ceftriaxone-sulbactam	头孢曲松/他唑巴坦
+	β内酰胺类	头霉素类	近二代头孢	近二代头孢			cephamycin	cefmetazole	头孢美唑
+	β内酰胺类	头霉素类	近二代头孢	近二代头孢			cephamycin	cefotetan	头孢替坦
+	β内酰胺类	头霉素类	近二代头孢				cephamycin	cefmetazole-tazobactam	头孢美唑/他唑巴坦
+	β内酰胺类	头霉素类	近三代头孢		头孢烯类		cephamycin	cefbuperazone	头孢拉宗
+	β内酰胺类	头霉素类	近三代头孢				cephamycin		头孢妥仑匹酯
+	β内酰胺类	头霉素类	头霉素类				cephamycin	flomoxef	氟氧头孢
+	β内酰胺类	头霉素类	近二代头孢	近二代头孢			cephamycin	cefoxitin	头孢西丁
+	β内酰胺类	头霉素类	头霉素类				cephamycin	cefoxitin-clavulanate	头孢西丁/克拉维酸
+	β内酰胺类	头霉素类	头霉素类				cephamycin	cefoxitin-sulbactam	头孢西丁/舒巴坦
+	β内酰胺类	头霉素类	头霉素类				cephamycin	cefoxitin-tazobactam	头孢西丁/他唑巴坦
+	β内酰胺类	碳青霉烯类	碳青霉烯类				carbapenem	ertapenem	厄他培南
+	β内酰胺类	碳青霉烯类	碳青霉烯类				carbapenem	meropenem	美罗培南
+	β内酰胺类	碳青霉烯类	碳青霉烯类				carbapenem	imipenem	亚胺培南
+	β内酰胺类	碳青霉烯类	碳青霉烯类				carbapenem	doripenem	多尼培南
+	β内酰胺类	碳青霉烯类	碳青霉烯类				carbapenem	panipenem	帕尼培南
+	β内酰胺类	碳青霉烯类	碳青霉烯类				carbapenem	tebipenem	泰比培南
+	β内酰胺类	碳青霉烯类/青霉素类	碳青霉烯类-青霉素类复合制剂				carbapenem	imipenem-cloxacillin	亚胺培南/氯唑西林
+	β内酰胺类	碳青霉烯类	碳青霉烯类				carbapenem	biapenem	比阿培南
+	β内酰胺类	碳青霉烯类	碳青霉烯类				carbapenem	imipenem-cilastatin	亚胺培南/西司他丁
+	β内酰胺类	碳青霉烯类	碳青霉烯类				carbapenem	panipenem-betamipron	帕尼培南/倍他米隆
+	β内酰胺类	β内酰胺酶抑制剂	β内酰胺酶抑制剂				-	clavulanic acid	克拉维酸
+	β内酰胺类	β内酰胺酶抑制剂	β内酰胺酶抑制剂				-	sulbactam	舒巴坦
+	β内酰胺类	β内酰胺酶抑制剂	β内酰胺酶抑制剂				-	tazobactam	他唑巴坦
+	β内酰胺类	单环酰胺类	单环酰胺类				monobactam	aztreonam	氨曲南
+	β内酰胺类	单环酰胺类	单环酰胺类				monobactam	carumonam	卡芦莫南
+	β内酰胺类	单环酰胺类	单环酰胺类				monobactam	LYS228	-
+	β内酰胺类	单环酰胺类	单环酰胺类				monobactam	aztreonam-clavulanate	氨曲南/克拉维酸
+	β内酰胺类	单环酰胺类	单环酰胺类				monobactam	aztreonam-tazobactam	氨曲南/他唑巴坦
+	β内酰胺类	β内酰胺酶抑制剂	单环酰胺类酶抑制剂	单环酰胺类酶抑制剂			monobactam	bal30072	氨曲南类似物
+天然氨基糖苷类		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	astromicin	阿司米星
+天然氨基糖苷类		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	neomycin	新霉素
+		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	dibekacin	地贝卡星
+半合成氨基糖苷类		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	amikacin	阿米卡星
+天然氨基糖苷类		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	gentamicin c	庆大霉素C
+		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	gentamicin	庆大霉素
+		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	ribostamycin	核糖霉素
+		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	butirosin	布替罗星
+天然氨基糖苷类		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	sisomicin	西索米星
+		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	apramycin	安普霉素
+半合成氨基糖苷类		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	netilmicin	奈替米星
+天然氨基糖苷类		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	spectinomycin	大观霉素
+天然氨基糖苷类		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	streptomycin	链霉素
+天然氨基糖苷类		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	kanamycin a	卡那霉素A
+天然氨基糖苷类		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	tobramycin	妥布霉素
+		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	hygromycin b	潮霉素B
+		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	isepamicin	异帕米星
+		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	g418	遗传霉素
+		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	arbekacin	阿贝卡星
+天然氨基糖苷类		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	gentamicin b	庆大霉素B
+		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	paromomycin	巴龙霉素
+		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	lividomycin	利维霉素
+		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	lividomycin a	青紫霉素 A
+		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	lividomycin b	青紫霉素 B
+		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	lividomycin a	青紫霉素 A
+		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	lividomycin b	青紫霉素 B
+		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	verdamicin	甲基紫苏霉素
+		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	vertilimicin	藜芦霉素
+		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	kasugamycin	春日霉素
+		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	plazomicin	普拉斯唑米星
+		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	capreomycin	卷曲霉素
+天然氨基糖苷类		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	gentamicin a	庆大霉素A
+		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	puromycin	嘌呤霉素
+天然氨基糖苷类		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	kanamycin	卡那霉素
+天然氨基糖苷类		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	miconomicin	小诺米星
+		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	monomycin	单霉素
+		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	pristinamycin	普那霉素
+		氨基糖苷类	氨基糖苷类				aminoglycoside antibiotic	etimicin	依替米星
+		氨基香豆素类	氨基香豆素类				aminocoumarin antibiotic	novobiocin	新生霉素
+		氨基香豆素类	氨基香豆素类				aminocoumarin antibiotic	clorobiocin	氯新生霉素
+		氨基香豆素类	氨基香豆素类				aminocoumarin antibiotic	coumermycin a1	香豆霉素A1
+		氨基香豆素类	氨基香豆素类				aminocoumarin antibiotic	Vanillobiocin	香草霉素
+		氨基香豆素类	氨基香豆素类				aminocoumarin antibiotic	Isovanillobiocin	异香草霉素
+		氨基香豆素类	氨基香豆素类				aminocoumarin antibiotic	Declovanillobiocin	去甲基香草霉素
+化学合成抗菌药		喹诺酮类	二代喹诺酮				fluoroquinolone antibiotic	cinoxacin	西诺沙星
+化学合成抗菌药		喹诺酮类	三代喹诺酮				fluoroquinolone antibiotic	enoxacin	依诺沙星
+化学合成抗菌药		喹诺酮类	三代喹诺酮				fluoroquinolone antibiotic	ciprofloxacin	环丙沙星
+化学合成抗菌药		喹诺酮类	三代喹诺酮				fluoroquinolone antibiotic	enrofloxacin	恩诺沙星
+化学合成抗菌药		喹诺酮类	三代喹诺酮				fluoroquinolone antibiotic	levofloxacin	左氧氟沙星
+化学合成抗菌药		喹诺酮类	三代喹诺酮				fluoroquinolone antibiotic	lomefloxacin	洛美沙星
+化学合成抗菌药		喹诺酮类	三代喹诺酮				fluoroquinolone antibiotic	norfloxacin	诺氟沙星
+化学合成抗菌药		喹诺酮类	三代喹诺酮				fluoroquinolone antibiotic	ofloxacin	氧氟沙星
+化学合成抗菌药		喹诺酮类	三代喹诺酮				fluoroquinolone antibiotic	sparfloxacin	司帕沙星
+化学合成抗菌药		喹诺酮类	三代喹诺酮				fluoroquinolone antibiotic	fleroxacin	氟罗沙星
+化学合成抗菌药		喹诺酮类	四代喹诺酮				fluoroquinolone antibiotic	moxifloxacin	莫西沙星
+化学合成抗菌药		喹诺酮类	四代喹诺酮				fluoroquinolone antibiotic	gatifloxacin	加替沙星
+化学合成抗菌药		喹诺酮类	四代喹诺酮				fluoroquinolone antibiotic	trovafloxacin	曲伐沙星
+化学合成抗菌药		喹诺酮类	四代喹诺酮				fluoroquinolone antibiotic	grepafloxacin	格帕沙星
+化学合成抗菌药		喹诺酮类	四代喹诺酮				fluoroquinolone antibiotic	pefloxacin	培氟沙星
+化学合成抗菌药		喹诺酮类	四代喹诺酮				fluoroquinolone antibiotic	clinafloxacin	克林沙星
+化学合成抗菌药		喹诺酮类	四代喹诺酮				fluoroquinolone antibiotic	balofloxacin	巴洛沙星
+化学合成抗菌药		喹诺酮类	四代喹诺酮				fluoroquinolone antibiotic	danofloxaci	达氟沙星
+化学合成抗菌药		喹诺酮类	喹诺酮类				fluoroquinolone antibiotic	nalidixic acid	萘啶酮酸
+化学合成抗菌药		喹诺酮类	喹诺酮类				fluoroquinolone antibiotic	tosufloxacin	妥舒沙星
+化学合成抗菌药		喹诺酮类	喹诺酮类				fluoroquinolone antibiotic	sitafloxacin	西他沙星
+化学合成抗菌药		喹诺酮类	喹诺酮类				fluoroquinolone antibiotic	danofloxacin	达氟沙星
+		喹诺酮类	喹诺酮类				fluoroquinolone antibiotic	delafloxacin	德拉沙星
+		喹诺酮类	喹诺酮类				fluoroquinolone antibiotic	Zabofloxacin	扎波沙星
+		喹诺酮类	喹诺酮类				fluoroquinolone antibiotic	Finefloxacin	芬氟沙星
+		喹诺酮类	喹诺酮类				fluoroquinolone antibiotic	Nemonoxacin	尼莫沙星
+化学合成抗菌药		喹诺酮类	一代喹诺酮				fluoroquinolone antibiotic	nalidixan	萘啶酸
+化学合成抗菌药		喹诺酮类	一代喹诺酮				fluoroquinolone antibiotic	pipemidic acid	吡咯酸
+化学合成抗菌药		喹诺酮类	二代喹诺酮				fluoroquinolone antibiotic	oxiolinic acid	奥索利酸
+化学合成抗菌药		喹诺酮类	二代喹诺酮				fluoroquinolone antibiotic	pipemidic	吡哌酸
+化学合成抗菌药		喹诺酮类	二代喹诺酮				fluoroquinolone antibiotic	piromidic acid	吡咯米酸
+化学合成抗菌药		喹诺酮类	三代喹诺酮				fluoroquinolone antibiotic	amifloxacin	氨氟沙星
+化学合成抗菌药		喹诺酮类	三代喹诺酮				fluoroquinolone antibiotic	rosoxacin	罗琐沙星
+化学合成抗菌药		喹诺酮类	三代喹诺酮				fluoroquinolone antibiotic		氟帕沙星
+化学合成抗菌药		喹诺酮类	三代喹诺酮				fluoroquinolone antibiotic	pazufloxacin	帕珠沙星
+化学合成抗菌药		喹诺酮类	四代喹诺酮				fluoroquinolone antibiotic	rufloxacin	芦氟沙星
+化学合成抗菌药		喹诺酮类	四代喹诺酮				fluoroquinolone antibiotic	gemifioxacin	吉米沙星
+化学合成抗菌药		喹诺酮类	四代喹诺酮				fluoroquinolone antibiotic		普卢利沙星
+化学合成抗菌药		喹诺酮类	喹诺酮类				fluoroquinolone antibiotic		托氟沙星
+化学合成抗菌药		喹诺酮类	喹诺酮类				fluoroquinolone antibiotic		司氟沙星
+化学合成抗菌药		磺胺类	磺胺类				sulfonamide antibiotic	sulfadiazine	磺胺嘧啶
+化学合成抗菌药		磺胺类	磺胺类				sulfonamide antibiotic	sulfadimidine	磺胺二甲嘧啶
+化学合成抗菌药		磺胺类	磺胺类				sulfonamide antibiotic	sulfadimethoxine	磺胺二甲氧嘧啶
+化学合成抗菌药		磺胺类	磺胺类				sulfonamide antibiotic	sulfadoxine	磺胺多辛
+化学合成抗菌药		磺胺类	磺胺类				sulfonamide antibiotic	sulfamethoxazole	磺胺甲噁唑
+化学合成抗菌药		磺胺类	磺胺类				sulfonamide antibiotic	sulfisoxazole	磺胺异噁唑
+化学合成抗菌药		磺胺类	磺胺类				sulfonamide antibiotic	sulfacetamide	酞磺醋胺
+化学合成抗菌药		磺胺类	磺胺类				sulfonamide antibiotic	mafenide	磺胺米隆
+化学合成抗菌药		磺胺类	磺胺类				sulfonamide antibiotic	sulfasalazine	柳氮磺砒啶
+化学合成抗菌药		磺胺类	磺胺类				sulfonamide antibiotic	sulfamethizole	磺胺甲噻二唑
+化学合成抗菌药		磺胺类	磺胺类复合制剂				sulfonamide antibiotic	trimethoprim-sulfamethoxazole	复方新诺明
+化学合成抗菌药		磺胺类	磺胺类				sulfonamide antibiotic	compound-sulfadiazine	复方磺胺嘧啶
+化学合成抗菌药		磺胺类	磺胺类				sulfonamide antibiotic	phthalylsulfacetamide	酞磺醋胺
+化学合成抗菌药		磺胺类	磺胺类				sulfonamide antibiotic	phthalylsulfathiazole  	琥磺胺噻唑
+化学合成抗菌药		磺胺类	磺胺类				sulfonamide antibiotic	sulfafurazole	磺胺异噁唑
+化学合成抗菌药		磺胺类	磺胺类				sulfonamide antibiotic	sulfaguanidine	磺胺脒
+化学合成抗菌药		磺胺类	磺胺类				sulfonamide antibiotic	sulfamethoxypyrazine	磺胺林
+化学合成抗菌药		磺胺类	磺胺类				sulfonamide antibiotic	sulfametoxydiazine	磺胺对甲氧嘧啶
+化学合成抗菌药		磺胺类	磺胺类				sulfonamide antibiotic		磺胺间甲氧嘧啶  
+化学合成抗菌药		磺胺类	磺胺类				sulfonamide antibiotic	sulfaphenazolum	磺胺苯吡唑
+化学合成抗菌药		磺胺类	磺胺类				sulfonamide antibiotic	sulfisomidine	磺胺二甲异嘧啶
+		大环内酯类	大环内酯类				macrolide antibiotic	erythromycin	红霉素
+		大环内酯类	大环内酯类				macrolide antibiotic	roxithromycin	罗红霉素
+		大环内酯类	大环内酯类				macrolide antibiotic	clarithromycin	克拉霉素
+		大环内酯类	大环内酯类				macrolide antibiotic	telithromycin	泰利霉素
+		大环内酯类	大环内酯类				macrolide antibiotic	tylosin	泰洛星
+		大环内酯类	大环内酯类				macrolide antibiotic	spiramycin	螺旋霉素
+		大环内酯类	大环内酯类				macrolide antibiotic	azithromycin	阿奇霉素
+		大环内酯类	大环内酯类				macrolide antibiotic	dirithromycin	地红霉素
+		大环内酯类	大环内酯类				macrolide antibiotic	oleandomycin	竹桃霉素
+		大环内酯类	大环内酯类				macrolide antibiotic	josamycin	交沙霉素
+		大环内酯类	大环内酯类				macrolide antibiotic	chalcomycin	查耳霉素
+		大环内酯类	大环内酯类				macrolide antibiotic	midecamycin	麦迪霉素
+		大环内酯类	大环内酯类				macrolide antibiotic	mycinamicin	麦新米星
+		大环内酯类	大环内酯类				macrolide antibiotic	megalomycin	巨大霉素
+		大环内酯类	大环内酯类				macrolide antibiotic	narbomycin	那波霉素
+		大环内酯类	大环内酯类				macrolide antibiotic	kitasamycin	吉他霉素
+		大环内酯类	大环内酯类				macrolide antibiotic	carbomycin	卡波霉素
+		大环内酯类	大环内酯类				macrolide antibiotic	rosaramicin	罗沙米星
+		大环内酯类	大环内酯类				macrolide antibiotic	niddamycin	尼达霉素
+		大环内酯类	大环内酯类				macrolide antibiotic	methymycin	酒霉素
+		大环内酯类	大环内酯类				macrolide antibiotic	pikromycin	苦霉素
+		大环内酯类	大环内酯类				macrolide antibiotic	Solithromycin	孤红霉素
+		大环内酯类	大环内酯类				macrolide antibiotic 	rokitamycin	罗他霉素
+		大环内酯类	大环内酯类				macrolide antibiotic	leucomycin	白霉素
+		大环内酯类	大环内酯类				macrolide antibiotic	flurithromycin	氟红霉素
+		大环内酯类	大环内酯类				macrolide antibiotic	ethylsuccinate	琥乙红霉素
+		大环内酯类	大环内酯类				macrolide antibiotic		乳糖酸红霉素
+		大环内酯类	大环内酯类				macrolide antibiotic		环酯红霉素
+		大环内酯类	大环内酯类				macrolide antibiotic	meleumycin	麦白霉素
+		大环内酯类	大环内酯类				macrolide antibiotic	midecamycine	麦迪霉素
+		大环内酯类	大环内酯类				macrolide antibiotic	erythromycin estolate	依托红霉素
+		大环内酯类	大环内酯类				macrolide antibiotic	acetylkitasamycin	乙酰吉他霉素
+		大环内酯类	大环内酯类				macrolide antibiotic	acetylspiramycin	乙酰螺旋霉素
+		大环内酯类	大环内酯类				macrolide antibiotic	midecamycin acetate	乙酰麦迪霉素
+		大环内酯类	大环内酯类				macrocyclic antibiotic	fidaxomicin	非达霉素
+		大环内酯类	大环内酯类				macrocyclic antibiotic	tilmicosin	替米考星
+		大环内酯类	大环内酯类				macrocyclic antibiotic	tulathromycin	托拉菌素
+半合成四环素类		四环素类	甘氨酰环素类				glycylcycline	tigecycline	替加环素
+天然四环素类		四环素类	四环素类				tetracycline antibiotic	tetracycline	四环素
+半合成四环素类		四环素类	四环素类				tetracycline antibiotic	doxycycline	多西环素
+半合成四环素类		四环素类	四环素类				tetracycline antibiotic	minocycline	米诺环素
+天然四环素类		四环素类	四环素类				tetracycline antibiotic	chlortetracycline	金霉素
+		四环素类	四环素类				tetracycline antibiotic	demeclocycline	去甲金霉素
+天然四环素类		四环素类	四环素类				tetracycline antibiotic	oxytetracycline	土霉素
+		四环素类	四环素类				tetracycline antibiotic	omadacycline	奥马达环素
+		四环素类	四环素类				tetracycline antibiotic	Eravacycline	依拉环素
+天然四环素类		四环素类	四环素类				tetracycline antibiotic		地美环素
+半合成四环素类		四环素类	四环素类				tetracycline antibiotic	metacycline	美他环素
+		四环素类	四环素类				tetracycline antibiotic	guamecycline	胍甲环素
+		四环素类	四环素类				tetracycline antibiotic	lymecycline	赖甲环素
+		糖肽类	糖肽类				glycopeptide antibiotic	teicoplanin	替考拉宁
+		糖肽类	糖肽类				glycopeptide antibiotic	vancomycin	万古霉素
+		糖肽类	博莱霉素				glycopeptide antibiotic	bleomycin	博莱霉素
+		糖肽类	博莱霉素				glycopeptide antibiotic	bleomycinic acid	博莱霉素酸
+		糖肽类	博莱霉素				glycopeptide antibiotic	bleomycin A2	博莱霉素A2
+		糖肽类	博莱霉素				glycopeptide antibiotic	bleomycin B2	博莱霉素B2
+		糖肽类	糖肽类				glycopeptide antibiotic	antibiotic A47934	-
+		糖肽类	糖肽类				glycopeptide antibiotic	balhimycin	巴利霉素
+		糖肽类	糖肽类				glycopeptide antibiotic	chloroeremomycin	-
+		糖肽类	糖肽类				glycopeptide antibiotic	oritavancin	奥列万星
+		糖肽类	糖肽类				glycopeptide antibiotic	antibiotic A40926	-
+		糖肽类	糖肽类				glycopeptide antibiotic	telavancin	泰拉霉素
+		糖肽类	糖肽类				glycopeptide antibiotic	dalbavancin	达巴万星
+		糖肽类	糖肽类				glycopeptide antibiotic	ristocetin	瑞斯托霉素
+		糖肽类	糖肽类				glycopeptide antibiotic	avoparcin	阿伏帕星
+		糖肽类	糖肽类				glycopeptide antibiotic	CBP C1-aminomethylene vancomycin	
+		糖肽类	糖肽类				glycopeptide antibiotic	eremomycin pyrrolidide	阿雷霉素吡咯烷
+		糖肽类	糖肽类				glycopeptide antibiotic	complestatin	复方他汀
+		糖肽类	糖肽类				glycopeptide antibiotic	corbomycin	科尔霉素
+		糖肽类	糖肽类				glycopeptide antibiotic	norvancomycin	去甲万古霉素
+		林可霉素类	林可霉素类				lincosamide antibiotic	lincomycin	林可霉素
+		林可霉素类	林可霉素类				lincosamide antibiotic	clindamycin	克林霉素
+		林可霉素类	林可霉素类				lincosamide antibiotic	celesticetin	天青菌素
+		恶唑烷酮类	恶唑烷酮类				oxazolidinone antibiotic	linezolid	利奈唑胺
+		恶唑烷酮类	恶唑烷酮类				oxazolidinone antibiotic	tedizolid	泰地唑利
+		氯霉素类	氯霉素类				phenicol antibiotic	chloramphenicol	氯霉素
+		氯霉素类	氯霉素类				phenicol antibiotic	azidamfenicol	叠氮氯霉素
+		氯霉素类	氯霉素类				phenicol antibiotic	thiamphenicol	甲砜霉素
+化学合成抗菌药		氯霉素类	氯霉素类				phenicol antibiotic	florfenicol	氟苯尼考
+		磷霉素类	磷霉素类				fosfomycin	fosfomycin	磷霉素
+		膦胺霉素	膦胺霉素				fosmidomycin	fosmidomycin	膦胺霉素
+化学合成抗菌药		硝基呋喃类	硝基呋喃类				nitrofuran antibiotic	nitrofurantoin	呋喃妥因
+化学合成抗菌药		硝基呋喃类	硝基呋喃类				nitrofuran antibiotic	furazolidone	呋喃唑酮
+化学合成抗菌药		硝基呋喃类	硝基呋喃类				nitrofuran antibiotic		呋喃西林
+化学合成抗菌药		硝基咪唑类	硝基呋喃类				nitroimidazole antibiotic	ornidazole 	奥硝唑
+化学合成抗菌药		硝基咪唑类	硝基呋喃类				nitroimidazole antibiotic	ornidazole	左奥硝唑
+化学合成抗菌药		硝基咪唑类	硝基咪唑类				nitroimidazole antibiotic	metronidazole	甲硝唑
+化学合成抗菌药		硝基咪唑类	硝基咪唑类				nitroimidazole antibiotic	tinidazole	替硝唑
+		硝基咪唑类	硝基咪唑类				nitroimidazole antibiotic	delamanid	德拉曼宁
+化学合成抗菌药		二氨基嘧啶类	二氨基嘧啶类	二氨基嘧啶类			diaminopyrimidine antibiotic	trimethoprim	甲氧苄啶
+化学合成抗菌药		二氨基嘧啶类	二氨基嘧啶类	二氨基嘧啶类			diaminopyrimidine antibiotic	brodimoprim	溴莫普林
+化学合成抗菌药		二氨基嘧啶类	二氨基嘧啶类	二氨基嘧啶类			diaminopyrimidine antibiotic	tetroxoprim	四氧普林
+化学合成抗菌药		二氨基嘧啶类	二氨基嘧啶类	二氨基嘧啶类			diaminopyrimidine antibiotic	iclaprim	艾拉普林
+		夫西地酸	夫西地酸				fusidic acid	fusidic acid	夫西地酸
+		对氨基水杨酸	对氨基水杨酸				para-aminosalicylic acid	para-aminosalicylic acid	对氨基水杨酸
+		多肽类	脂肽类				peptide antibiotic	lipopeptide antibiotic	-
+		多肽类	脂肽类				peptide antibiotic	polymyxin antibiotic	-
+		多肽类	多粘菌素E				peptide antibiotic	colistin	粘菌素
+		多肽类	多粘菌素E				peptide antibiotic	colistin a	粘菌素A
+		多肽类	多粘菌素E				peptide antibiotic	colistin b	粘菌素B
+		多肽类	多粘菌素B				peptide antibiotic	polymyxin B	多粘菌素B
+		多肽类	多粘菌素B				peptide antibiotic	polymyxin B1	多粘菌素B1
+		多肽类	多粘菌素B				peptide antibiotic	polymyxin B2	多粘菌素B2
+		多肽类	多粘菌素B				peptide antibiotic	polymyxin B3	多粘菌素B3
+		多肽类	多粘菌素B				peptide antibiotic	polymyxin B4	多粘菌素B4
+		多肽类	脂肽类				peptide antibiotic	Ramoplanin	雷莫拉宁
+		多肽类	脂肽类				peptide antibiotic	arylomycin	-
+		多肽类	脂肽类				peptide antibiotic	moenomycin	默诺霉素
+		多肽类	脂肽类	莫诺霉素			peptide antibiotic	moenomycin A1	莫诺霉素A1
+		多肽类	脂肽类				peptide antibiotic	battacin	-
+		多肽类	脂肽类				peptide antibiotic	malacidin A	-
+		多肽类	杆菌肽				peptide antibiotic	bacitracin	杆菌肽
+		多肽类	杆菌肽				peptide antibiotic	bacitracin a	杆菌肽A
+		多肽类	杆菌肽				peptide antibiotic	bacitracin b	杆菌肽B
+		多肽类	杆菌肽				peptide antibiotic	bacitracin f	杆菌肽F
+		多肽类	伊短菌素类				peptide antibiotic	edeine A	伊短菌素A
+		多肽类	伊短菌素类				peptide antibiotic	edeine B	伊短菌素B
+		多肽类	伊短菌素类				peptide antibiotic	edeine D	伊短菌素D
+		多肽类	伊短菌素类				peptide antibiotic	edeine F	伊短菌素F
+		多肽类	短杆菌肽				peptide antibiotic	gramicidin	短杆菌肽
+		多肽类	短杆菌肽				peptide antibiotic	gramicidin S	短杆菌肽S
+		多肽类	短杆菌肽				peptide antibiotic	gramicidin A	短杆菌肽A
+		多肽类	短杆菌肽				peptide antibiotic	gramicidin B	短杆菌肽B
+		多肽类	短杆菌肽				peptide antibiotic	gramicidin C	短杆菌肽C
+		多肽类	短杆菌肽				peptide antibiotic	gramicidin D	短杆菌肽D
+		多肽类	多肽类				peptide antibiotic	tuberactinomycin	结核放线菌素
+		多肽类	多肽类				peptide antibiotic	thiostrepton	硫链丝菌素
+		多肽类	多肽类				peptide antibiotic	defensin	防御素
+		多肽类	爪蟾抗菌肽				peptide antibiotic	magainin	爪蟾抗菌肽
+		多肽类	爪蟾抗菌肽				peptide antibiotic	magainin A	爪蟾抗菌肽A
+		多肽类	爪蟾抗菌肽				peptide antibiotic	magainin B	爪蟾抗菌肽B
+		多肽类	爪蟾抗菌肽				peptide antibiotic	magainin G	爪蟾抗菌肽G
+		多肽类	爪蟾抗菌肽				peptide antibiotic	magainin H	爪蟾抗菌肽H
+		多肽类	爪蟾抗菌肽				peptide antibiotic	magainin 1	爪蟾抗菌肽1
+		多肽类	爪蟾抗菌肽				peptide antibiotic	magainin 2	爪蟾抗菌肽2
+		多肽类	放线菌素类				peptide antibiotic	actinomycin	放线菌素
+		多肽类	放线菌素类				peptide antibiotic	Dactinomycin	更生霉素
+		多肽类	多肽类				peptide antibiotic	teixobactin	泰斯巴汀
+		多肽类	多肽类				peptide antibiotic	daptomycin	达托霉素
+		多肽类	多肽类				peptide antibiotic	lugdunin	-
+		多肽类	多肽类				peptide antibiotic	thusin	-
+		多肽类	多肽类				peptide antibiotic	formicin	甲醛乙酰胺
+		多肽类	溶血素				peptide antibiotic	lysocin	溶血素
+		多肽类	溶血素				peptide antibiotic	lysocin e	溶胞素E
+		多肽类	多肽类				peptide antibiotic	microcin j25	小菌素J25
+		多肽类	多肽类				peptide antibiotic	bpi	BPI
+		多肽类	多肽类				peptide antibiotic	viomycin	紫霉素
+		多肽类	多肽类				peptide antibiotic	tyrothricin	短杆菌素
+		链阳霉素类	链阳霉素类A				streptogramin antibiotic	streptogramin A antibiotic	链阳霉素
+		链阳霉素类	链阳霉素类A				streptogramin antibiotic	pristinamycin iia	普那霉素IIA
+		链阳霉素类	链阳霉素类A				streptogramin antibiotic	madumycin ii	马杜霉素II
+		链阳霉素类	链阳霉素类A				streptogramin antibiotic	griseoviridin	灰绿菌素
+		链阳霉素类	链阳霉素类A				streptogramin antibiotic	dalfopristin	达福普汀
+		链阳霉素类	链阳霉素类B				streptogramin antibiotic	streptogramin B antibiotic	-
+		链阳霉素类	链阳霉素类B				streptogramin antibiotic	pristinamycin ia	普那霉素IA
+		链阳霉素类	链阳霉素类B				streptogramin antibiotic	quinupristin	喹努普汀
+		链阳霉素类	链阳霉素类B				streptogramin antibiotic	pristinamycin ib	普那霉素IB
+		链阳霉素类	链阳霉素类B				streptogramin antibiotic	virginiamycin s2	维吉尼亚霉素S2
+		链阳霉素类	链阳霉素类B				streptogramin antibiotic	vernamycin b-gamma	春霉素B-gamma
+		链阳霉素类	链阳霉素类B				streptogramin antibiotic	vernamycin c	春霉素C
+		链阳霉素类	链阳霉素类B				streptogramin antibiotic	ostreogrycin b3	蛎灰菌素B3
+		链阳霉素类	链阳霉素类				streptogramin antibiotic	quinupristin-dalfopristin	喹努普汀/达福普汀
+		链阳霉素类	链阳霉素类B				streptogramin B antibiotic	patricin A	-
+		链阳霉素类	链阳霉素类B				streptogramin B antibiotic	patricin B	-
+		苯扎氯铵	苯扎氯铵				benzalkonium chloride	benzalkonium chloride	苯扎氯铵
+		丙硫异烟胺	丙硫异烟胺				prothionamide	prothionamide	丙硫异烟胺
+		吡嗪酰胺	抗结核药			抗结核药	pyrazinamide	pyrazinamide	吡嗪酰胺
+		多胺类	抗结核药			抗结核药	polyamine antibiotic	ethambutol	乙胺丁醇
+		二芳基喹啉类	抗结核药				diarylquinoline antibiotic	bedaquiline	贝达喹啉
+		乙硫异烟胺	抗结核药				ethionamide	ethionamide	乙硫异烟胺
+		异烟肼	抗结核药			抗结核药	isoniazid	isoniazid	异烟肼
+		利福霉素类	抗结核药			抗结核药	rifamycin antibiotic	rifampin	利福平
+		利福霉素类	抗结核药			抗结核药	rifamycin antibiotic	rifaximin	利福昔明
+		利福霉素类	抗结核药			抗结核药	rifamycin antibiotic	rifabutin	利福布汀
+		利福霉素类	抗结核药			抗结核药	rifamycin antibiotic	rifapentine	利福喷汀
+		利福霉素类	利福霉素类				rifamycin antibiotic	Rifalazil	利福拉齐
+		利福霉素类	利福霉素类				rifamycin antibiotic	lassomycin	拉丝霉素
+		抗结核药	抗结核药			抗结核药	-	protionamide	丙硫异烟胺
+		对氨基水杨酸	抗结核药			抗结核药	para-aminosalicylic acid	sodium aminosalicylate	对氨基水杨酸钠
+		抗结核药	抗结核药			抗结核药	-	pasiniazid	帕司烟肼
+		利福霉素类	抗结核药			抗结核药	rifamycin antibiotic	rifamycin	利福霉素
+		抗麻风药	抗麻风药			抗麻风药	-	acedapsone	醋氨苯砜
+		-					-	thalidomide	法利度胺
+		抗麻风药	抗麻风药			抗麻风药	clofazimine	clofazimine	氯法齐明
+		核苷抗生素	核苷抗生素				nucleoside antibiotic	tunicamycin	衣霉素
+		核苷抗生素	核苷抗生素				nucleoside antibiotic	streptothricin	链丝菌素
+		核苷抗生素	核苷抗生素				nucleoside antibiotic	aminonucleoside antibiotic	
+		砜类	砜类				sulfone antibiotic	dapsone	氨苯砜
+		截短侧耳素类	截短侧耳素类				pleuromutilin antibiotic	tiamulin	泰妙菌素
+		截短侧耳素类	截短侧耳素类				pleuromutilin antibiotic	retapamulin	-
+		截短侧耳素类	截短侧耳素类				pleuromutilin antibiotic	valnemulin	沃尼妙林
+		截短侧耳素类	截短侧耳素类				pleuromutilin antibiotic	azamulin	阿扎莫林
+		截短侧耳素类	截短侧耳素类				pleuromutilin antibiotic	pleuromutilin	截短侧耳素
+		截短侧耳素类	截短侧耳素类				pleuromutilin antibiotic	lefamulin	来法莫林
+		抗菌游离脂肪酸	抗菌游离脂肪酸				antibacterial free fatty acids	palmitic acid	棕榈酸
+		抗菌游离脂肪酸	抗菌游离脂肪酸				antibacterial free fatty acids	oleic acid	油酸
+		抗菌游离脂肪酸	抗菌游离脂肪酸				antibacterial free fatty acids	linoleic acid	亚油酸
+		阿尔法霉素类	阿尔法霉素类				elfamycin antibiotic	pulvomycin	粉霉素
+		阿尔法霉素类	阿尔法霉素类				elfamycin antibiotic	enacyloxin iia	-
+		阿尔法霉素类	阿尔法霉素类				elfamycin antibiotic	cyclic thiazolyl peptide elfamycin	
+		阿尔法霉素类	阿尔法霉素类				elfamycin antibiotic	ge2270a	细菌蛋白合成抑制剂
+		阿尔法霉素类	阿尔法霉素类				elfamycin antibiotic	lff571	GE2270A家族衍生物
+		阿尔法霉素类	阿尔法霉素类				elfamycin antibiotic	kirromycin-like antibiotics	
+		阿尔法霉素类	阿尔法霉素类				elfamycin antibiotic	factumycin	-
+		阿尔法霉素类	阿尔法霉素类				elfamycin antibiotic	kirromycin	黄色霉素
+		类黄色霉素抗生素	类黄色霉素抗生素				kirromycin-like antibiotics	L-681,217	-
+		类黄色霉素抗生素	类黄色霉素抗生素				kirromycin-like antibiotics	aurodox	-
+		类黄色霉素抗生素	类黄色霉素抗生素				kirromycin-like antibiotics	azimycin	-
+		类黄色霉素抗生素	类黄色霉素抗生素				kirromycin-like antibiotics	dihydromocimycin	二氢摩雪霉素
+		类黄色霉素抗生素	类黄色霉素抗生素				kirromycin-like antibiotics	efrotomycin	依罗霉素
+		类黄色霉素抗生素	类黄色霉素抗生素				kirromycin-like antibiotics	heneicomycin	烯霉素
+		类黄色霉素抗生素	类黄色霉素抗生素				kirromycin-like antibiotics	kirrothricin	克洛霉素
+		类黄色霉素抗生素	类黄色霉素抗生素				kirromycin-like antibiotics	phenelfamycin A	芬尼法霉素A
+		类黄色霉素抗生素	类黄色霉素抗生素				kirromycin-like antibiotics	phenelfamycin B	芬尼法霉素B
+		类黄色霉素抗生素	类黄色霉素抗生素				kirromycin-like antibiotics	phenelfamycin C	芬尼法霉素C
+		类黄色霉素抗生素	类黄色霉素抗生素				kirromycin-like antibiotics	phenelfamycin D	芬尼法霉素D
+		类黄色霉素抗生素	类黄色霉素抗生素				kirromycin-like antibiotics	phenelfamycin E	芬尼法霉素E
+		类黄色霉素抗生素	类黄色霉素抗生素				kirromycin-like antibiotics	phenelfamycin F	芬尼法霉素F
+		类黄色霉素抗生素	类黄色霉素抗生素				kirromycin-like antibiotics	unphenelfamycin	安非那霉素
+		类黄色霉素抗生素	类黄色霉素抗生素				kirromycin-like antibiotics	SB22484	-
+		类黄色霉素抗生素	类黄色霉素抗生素				kirromycin-like antibiotics	UK-69,753	-
+		类黄色霉素抗生素	类黄色霉素抗生素				kirromycin-like antibiotics	phenelfamycin G	芬尼法霉素G
+		类黄色霉素抗生素	类黄色霉素抗生素				kirromycin-like antibiotics	phenelfamycin H	芬尼法霉素H
+		类黄色霉素抗生素	类黄色霉素抗生素				kirromycin-like antibiotics	ganefromycin	加奈霉素
+		密旋霉素	密旋霉素				pactamycin	pactamycin	密旋霉素
+		莫匹罗星	莫匹罗星				mupirocin	mupirocin	莫匹罗星
+		尼博霉素	尼博霉素				nybomycin	nybomycin	尼博霉素
+		若丹明	若丹明				rhodamine	rhodamine	若丹明
+		双环霉素	双环霉素				bicyclomycin	bicyclomycin 	双环霉素
+		吖啶色素类	吖啶色素类				acridine dye	acriflavine	吖啶黄
+		有机砷抗生素	有机砷抗生素				organoarsenic antibiotic	arsphenamine	胂凡纳明
+			环丝氨酸				cycloserine	cycloserine	环丝氨酸
+							cyclic thiazolyl peptide elfamycin	GE37468	-
+							cyclic thiazolyl peptide elfamycin	amythiamicin A	-
+							triclosan	triclosan	-
+							Zoliflodacin	Zoliflodacin	-
+		其他	其他				thalidomide	thalidomide	泰利唑咹

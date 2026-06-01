@@ -1,0 +1,9 @@
+aminoglycoside_antibiotic--gentamicin
+aminoglycoside_antibiotic--tobramycin
+carbapenem--imipenem
+carbapenem--meropenem
+cephalosporin--cefepime
+cephalosporin--ceftazidime
+penam--piperacillin-tazobactam
+sulfonamide_antibiotic--trimethoprim-sulfamethoxazole
+tetracycline_antibiotic--tetracycline

@@ -1,0 +1,6 @@
+drug	Training_set	Test_set
+NC	0.8	0.8
+PAO1+Imipenem	0.906	0.887
+PAO1+Meropenem	0.925	0.888
+PAO1 Imipenem	0.89	0.88
+PAO1 Meropenem	0.9	0.879
